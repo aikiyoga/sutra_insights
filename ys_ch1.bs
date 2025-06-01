@@ -1,0 +1,739 @@
+# Samādhi Pāda / Contemplation # {#chapter-1}
+
+## [=Atha=] ## {#sub1.1}
+
+[=Atha=] Yogānuśāsanam.
+> Now, the teaching of yoga begins.
+
+<pre class=simpledef>
+<dfn>Atha</dfn>: now — signaling the beginning, with a sense of readiness or auspiciousness.
+<dfn>Yoga</dfn>: union, yoga.
+<dfn>Anuśāsanam</dfn>: instruction, exposition, teaching, discipline.
+</pre>
+
+Note: This verse marks a sacred and intentional beginning to the path of yoga. The word atha signifies readiness, indicating that the student has prepared and is now poised to receive the disciplined teaching (anuśāsanam) of yoga—not as speculation, but as an experiential, authoritative path toward inner transformation. This opening sūtra is both an invitation and a declaration: yoga is a systematic means to still the mind, and its practice begins now, in the present moment, for the sincere seeker.
+
+## Citta ## {#sub1.2}
+
+Yogaś-citta-vṛtti-nirodhaḥ.
+> Yoga is the stilling of the modifications (fluctuations) of the mind.
+
+<pre class=simpledef>
+<dfn>Yogaḥ</dfn>: yoga is.
+<dfn>Citta</dfn>: mind-stuff, consciousness field, mind.
+<dfn>Vṛtti</dfn>: modifications, fluctuations, activities, patterns.
+<dfn>Nirodhaḥ</dfn>: stilling, cessation, restraint, control.
+</pre>
+
+Note: This seminal sūtra defines the core technical meaning of Yoga: it is the intentional process of calming and restraining the ceaseless agitations and patterns of the mind-field (citta). By achieving this inner stillness (nirodhaḥ), the practitioner can move beyond the surface-level mental chatter and experience deeper states of awareness.
+
+## Svarūpe ## {#sub1.3}
+
+Tadā draṣṭuḥ svarūpe-'vasthānam.
+> Then, the Seer (true Self) abides in its own essential nature.
+
+<pre class=simpledef>
+<dfn>Tadā</dfn>: then, at that time (when nirodhaḥ is achieved).
+<dfn>Draṣṭuḥ</dfn>: of the Seer, of the witness, of pure consciousness.
+<dfn>Svarūpe</dfn>: in its own form, in its own essential nature.
+<dfn>Avasthānam</dfn>: abiding, establishment, resting.
+</pre>
+
+Note: When the mind's fluctuations are stilled through yoga, the true Self (draṣṭṛ), which is pure awareness, is no longer obscured by or identified with mental activities. It rests peacefully and clearly in its own inherent, unmodified nature (svarūpe), revealing its innate freedom and luminosity.
+
+## Vṛtti Sārūpyam ## {#sub1.4}
+
+Vṛtti sārūpyam-itaratra.
+> At other times (when the mind is not stilled), the Seer identifies with the modifications (fluctuations).
+
+<pre class=simpledef>
+<dfn>Vṛtti</dfn>: modifications, fluctuations.
+<dfn>Sārūpyam</dfn>: identification with, conformity with the form of, assimilation with.
+<dfn>Itaratra</dfn>: at other times, otherwise.
+</pre>
+
+Note: This sūtra describes the common human condition when the mind is not in a state of nirodha. In such instances, the Seer (pure consciousness) mistakenly identifies with the ongoing mental activities (vṛttis), taking on their characteristics and becoming entangled in the drama of thoughts and emotions, thus forgetting its true, detached nature.
+
+## Vṛttayaḥ ## {#sub1.5}
+
+Vṛttayaḥ pañcatayyaḥ kliṣṭākliṣṭāḥ.
+> The modifications of the mind are five-fold, and they are either painful (afflicted) or not painful (unafflicted).
+
+<pre class=simpledef>
+<dfn>Vṛttayaḥ</dfn>: modifications (plural of vṛtti).
+<dfn>Pañcatayyaḥ</dfn>: five-fold, of five kinds.
+<dfn>Kliṣṭāḥ</dfn>: painful, afflicted, causing suffering.
+<dfn>Akliṣṭāḥ</dfn>: not painful, unafflicted, not causing suffering.
+</pre>
+
+Note: Patañjali categorizes all mental activities into five basic types. Each of these can manifest in a way that leads to suffering and bondage (kliṣṭa) by reinforcing ignorance and attachment, or in a way that is conducive to clarity and freedom (akliṣṭa) by supporting discernment and detachment. Understanding this dual potential is key to transforming the mind.
+
+## Pramāṇa ## {#sub1.6}
+
+Pramāṇa viparyaya vikalpa nidrā smṛtayaḥ.
+> The five kinds of mental modifications are: right knowledge (pramāṇa), misperception (viparyaya), conceptualization (vikalpa), deep sleep (nidrā), and memory (smṛti).
+
+<pre class=simpledef>
+<dfn>Pramāṇa</dfn>: right knowledge, valid cognition, correct perception, proof.
+<dfn>Viparyaya</dfn>: misperception, wrong knowledge, illusion, error.
+<dfn>Vikalpa</dfn>: conceptualization, imagination, verbal delusion, fantasy.
+<dfn>Nidrā</dfn>: deep sleep (as a mental state).
+<dfn>Smṛtayaḥ</dfn>: memory (plural of smṛti).
+</pre>
+
+Note: This sūtra lists the five fundamental categories of mental operations. These encompass all ways the mind processes information and experiences reality: from accurate understanding to delusion, from abstract thought to the state of sleep and the recollection of past experiences. Yoga involves understanding and managing these five functions.
+
+## Pratyakṣa ## {#sub1.7}
+
+Pratyakṣānumānāgamāḥ pramāṇāni.
+> The sources of right knowledge (pramāṇa) are direct perception, inference, and authoritative testimony.
+
+<pre class=simpledef>
+<dfn>Pratyakṣa</dfn>: direct perception, sensory experience.
+<dfn>Anumāna</dfn>: inference, logical deduction.
+<dfn>Āgamāḥ</dfn>: authoritative testimony, scriptures, words of a reliable source.
+<dfn>Pramāṇāni</dfn>: sources of right knowledge (plural of pramāṇa).
+</pre>
+
+Note: Patañjali elaborates on the first mental modification, 'pramāṇa', by identifying its three legitimate sources. Accurate understanding of the world can be gained through direct sensory experience (pratyakṣa), logical reasoning and inference (anumāna), and the reliable teachings of enlightened beings or sacred texts (āgama). Cultivating these leads to a clearer perception of reality.
+
+## Viparyaya ## {#sub1.8}
+
+Viparyayo mithyājñānam atadrūpapratiṣṭham.
+> Misperception (viparyaya) is false knowledge, not established in the true form of that (object).
+
+<pre class=simpledef>
+<dfn>Viparyayaḥ</dfn>: misperception, wrong knowledge.
+<dfn>Mithyājñānam</dfn>: false knowledge, erroneous conception.
+<dfn>Atadrūpapratiṣṭham</dfn>: not established in its (the object's) own (real) form.
+</pre>
+
+Note: Viparyaya, or misperception, is a significant source of suffering as it involves understanding something for what it is not—for example, mistaking a rope for a snake. This vritti is characterized by an erroneous cognition that does not correspond to the actual nature of the object, leading to flawed judgments and reactions.
+
+## Vikalpa ## {#sub1.9}
+
+Śabdajñānānupātī vastunyo vikalpaḥ.
+> Conceptualization (vikalpa) is a mental construct arising from linguistic knowledge, even in the absence of a corresponding real object.
+
+<pre class=simpledef>
+<dfn>Śabda-jñāna</dfn>: knowledge from words or language.
+<dfn>Anupātī</dfn>: following upon, arising from.
+<dfn>Vastu-śūnyaḥ</dfn>: devoid of an (actual) object, empty of substance.
+<dfn>Vikalpaḥ</dfn>: conceptualization, imagination, fancy.
+</pre>
+
+Note: Vikalpa refers to the mind's capacity to create thoughts, ideas, and images based purely on words or concepts, even when there is no tangible, existing reality corresponding to them (e.g., a "unicorn" or abstract anxieties about the future). While useful for abstract thought, vikalpa can also lead to delusion if mistaken for objective reality.
+
+## Nidrā ## {#sub1.10}
+
+Abhāvapratyayālambanā vṛttirnidrā.
+> Deep sleep (nidrā) is the mental modification which has for its support the cognition of absence (of other mental contents).
+
+<pre class=simpledef>
+<dfn>Abhāva</dfn>: absence, non-existence, negation.
+<dfn>Pratyaya</dfn>: cognition, content of mind, cause.
+<dfn>Ālambanā</dfn>: having as support, based on.
+<dfn>Vṛttiḥ</dfn>: modification (of the mind).
+<dfn>Nidrā</dfn>: deep sleep.
+</pre>
+
+Note: Patañjali defines deep sleep not as a complete void of consciousness, but as a specific mental state (vṛtti). Its defining characteristic is the perception of absence – the absence of waking thoughts, dream imagery, and sensory input. Upon waking, the memory "I slept well" or "I knew nothing" indicates that some form of cognition, albeit of emptiness, was present.
+
+## Smṛti ## {#sub1.11}
+
+Anubhūtaviṣayāsaṁpramoṣaḥ smṛtiḥ.
+> Memory (smṛti) is the non-relinquishment (or recollection) of a previously experienced object or impression.
+
+<pre class=simpledef>
+<dfn>Anubhūta</dfn>: experienced, cognized.
+<dfn>Viṣaya</dfn>: object (of experience), subject matter.
+<dfn>Asaṁpramoṣaḥ</dfn>: not letting slip, not being stolen away, recollection.
+<dfn>Smṛtiḥ</dfn>: memory.
+</pre>
+
+Note: Memory is the mental faculty that retains and allows for the recall of past experiences, perceptions, and learned information. It involves bringing back into conscious awareness an object or impression that was previously cognized, without it "slipping away" entirely from the mind-field. Memories significantly shape our present understanding and reactions.
+
+## Abhyāsa Vairāgya ## {#sub1.12}
+
+Abhyāsavairāgyābhyāṁ tannirodhaḥ.
+> The stilling of these (mental modifications) is achieved by practice (abhyāsa) and non-attachment (vairāgya).
+
+<pre class=simpledef>
+<dfn>Abhyāsa</dfn>: practice, persistent effort.
+<dfn>Vairāgyābhyām</dfn>: by non-attachment, by dispassion (dual instrumental case).
+<dfn>Tat</dfn>: their (of the vṛttis).
+<dfn>Nirodhaḥ</dfn>: stilling, cessation, restraint.
+</pre>
+
+Note: This crucial sūtra introduces the two fundamental pillars for achieving the yogic goal of mental stillness (nirodhaḥ). These are Abhyāsa, the consistent and dedicated effort in yogic disciplines, and Vairāgya, the cultivation of detachment from worldly desires and aversions. Both are indispensable and work synergistically.
+
+## Abhyāsa ## {#sub1.13}
+
+Tatra sthitau yatno'bhyāsaḥ.
+> Practice (abhyāsa) is the effort to be firmly established in that state (of mental stillness).
+
+<pre class=simpledef>
+<dfn>Tatra</dfn>: there, in that (referring to the state of nirodhaḥ or stillness).
+<dfn>Sthitau</dfn>: in being firmly established, for stability.
+<dfn>Yatnaḥ</dfn>: effort, endeavor, exertion.
+<dfn>Abhyāsaḥ</dfn>: practice.
+</pre>
+
+Note: Abhyāsa is defined not as sporadic effort but as a continuous, dedicated, and conscious endeavor (yatnaḥ) aimed specifically at achieving and maintaining the state of mental tranquility (sthitau). It is the active component of the yogic path, requiring diligence and perseverance.
+
+## Dīrgha Kāla ## {#sub1.14}
+
+Sa tu dīrghakālanairantaryasatkārāsevito dṛḍhabhūmiḥ.
+> That practice (abhyāsa) becomes firmly grounded when it is cultivated for a long time, without interruption, and with sincere devotion (reverence).
+
+<pre class=simpledef>
+<dfn>Saḥ tu</dfn>: that indeed, but that (practice).
+<dfn>Dīrgha-kāla</dfn>: for a long time.
+<dfn>Nairantarya</dfn>: without interruption, continuously.
+<dfn>Satkāra</dfn>: with devotion, respect, reverence, earnest attention.
+<dfn>Āsevitaḥ</dfn>: cultivated, practiced, attended to, followed.
+<dfn>Dṛḍha-bhūmiḥ</dfn>: having a firm ground, solidly established.
+</pre>
+
+Note: For practice to yield lasting results and become a stable foundation (dṛḍha-bhūmiḥ) for the yogi, it must possess three qualities: it must be pursued diligently over an extended period (dīrgha-kāla), maintained consistently without significant breaks (nairantarya), and undertaken with a positive attitude of earnestness, respect, and dedication (satkāra).
+
+## Vairāgya ## {#sub1.15}
+
+Dṛṣṭānuśravikaviṣayavitṛṣṇasya vaśīkārasaṁjñā vairāgyam.
+> Non-attachment (vairāgya) is the consciousness of self-mastery in one who is free from craving for objects seen or heard about.
+
+<pre class=simpledef>
+<dfn>Dṛṣṭa</dfn>: seen, perceived (objects of direct experience).
+<dfn>Ānuśravika</dfn>: heard, scriptural, traditional (objects learned about).
+<dfn>Viṣaya</dfn>: objects (of sensory experience or desire).
+<dfn>Vitṛṣṇasya</dfn>: of one who is free from craving or thirst.
+<dfn>Vaśīkāra-saṁjñā</dfn>: consciousness of mastery, complete control, subjugation (of desires).
+<dfn>Vairāgyam</dfn>: non-attachment, dispassion, detachment.
+</pre>
+
+Note: Vairāgya, or non-attachment, is described as a state of inner freedom and self-control (vaśīkāra-saṁjñā). It arises when a person becomes free from the thirst (vitṛṣṇasya) for worldly objects and pleasures, whether they are directly experienced (dṛṣṭa) or merely heard about through tradition or scriptures (ānuśravika). It is a conscious letting go of attachments.
+
+## Parama Vairāgya ## {#sub1.16}
+
+Tatparaṁ puruṣakhyāterguṇavaitṛṣṇyam.
+> The highest non-attachment (parama vairāgya) is the absence of craving for even the fundamental constituents of nature (guṇas), arising from the knowledge of the True Self (Puruṣa).
+
+<pre class=simpledef>
+<dfn>Tat param</dfn>: that highest, that supreme (form of vairāgya).
+<dfn>Puruṣa-khyāteḥ</dfn>: from the knowledge (discernment) of the Puruṣa (the True Self, Pure Consciousness).
+<dfn>Guṇa-vaitṛṣṇyam</dfn>: non-thirsting for the guṇas, freedom from craving for the primary qualities of Prakṛti (sattva, rajas, tamas).
+</pre>
+
+Note: This sūtra defines the most profound level of non-attachment, parama vairāgya. It transcends even the subtle attractions and repulsions related to the three primary forces or qualities of nature (guṇas). This ultimate dispassion arises not from suppression, but from the direct realization and clear discernment (khyāti) of the fundamental distinction between the Pure Consciousness (Puruṣa) and the phenomenal world (Prakṛti and its guṇas).
+
+## Samprajñāta ## {#sub1.17}
+
+Vitarkavicārānandāsmitārūpānugamātsaṁprajñātaḥ.
+> Samprajñāta samādhi (cognitive absorption with an object) is accompanied by gross reasoning (vitarka), subtle reflection (vicāra), bliss (ānanda), and the sense of I-ness (asmitā).
+
+<pre class=simpledef>
+<dfn>Vitarka</dfn>: gross reasoning, deliberation on a gross object, analytical thought.
+<dfn>Vicāra</dfn>: subtle reflection, contemplation on a subtle object, intuitive inquiry.
+<dfn>Ānanda</dfn>: bliss, joy, ecstasy.
+<dfn>Asmitā</dfn>: I-ness, sense of individuality, pure ego-sense.
+<dfn>Rūpa</dfn>: form, nature, appearance.
+<dfn>Anugamāt</dfn>: by accompaniment, by association with these forms.
+<dfn>Saṁprajñātaḥ</dfn>: cognitive absorption, samādhi with an object of focus, conscious samādhi.
+</pre>
+
+Note: Samprajñāta samādhi describes a state of deep meditative absorption where consciousness is still engaged with an object, albeit with increasing subtlety and clarity. It unfolds through four progressive stages or forms: initial analytical thought about a gross object (vitarka), followed by deeper, more intuitive reflection on subtle aspects (vicāra), then an experience of profound joy or bliss (ānanda), and finally a refined sense of "I-am-ness" or pure individuation (asmitā).
+
+## Asamprajñāta ## {#sub1.18}
+
+Virāmapratyayābhyāsapūrvaḥ saṁskāraśeṣo'nyaḥ.
+> The other (samādhi, i.e., asamprajñāta or objectless absorption) is preceded by the practice of steadily bringing mental activity to a standstill, and in it, only latent impressions (saṁskāras) remain.
+
+<pre class=simpledef>
+<dfn>Virāma-pratyaya</dfn>: the cognition of cessation, the idea of stopping (all mental activity).
+<dfn>Abhyāsa-pūrvaḥ</dfn>: preceded by practice (of this cessation).
+<dfn>Saṁskāra-śeṣaḥ</dfn>: in which only latent impressions (saṁskāras) remain as residue.
+<dfn>Anyaḥ</dfn>: the other (referring to asamprajñāta samādhi).
+</pre>
+
+Note: Asamprajñāta samādhi is a higher, objectless state of meditative absorption that follows and transcends samprajñāta. It is achieved through the sustained practice of disidentifying from all mental content, leading to a state where all cognitive activity (vṛttis) ceases (virāma-pratyaya). In this profound stillness, only the underlying subconscious impressions (saṁskāras) remain, though they are not actively creating mental fluctuations. This is a state beyond active cognition.
+
+## Bhavapratyaya ## {#sub1.19}
+
+Bhavapratyayo videhaprakṛtilayānām.
+> For the videhas (bodiless ones) and the prakṛtilayas (those merged in primordial nature), this (asamprajñāta samādhi) is attained by virtue of their (previous) state of existence (or by birth itself).
+
+<pre class=simpledef>
+<dfn>Bhava-pratyayaḥ</dfn>: caused by birth, conditioned by becoming, arising from a (previous) state of existence.
+<dfn>Videha</dfn>: bodiless (beings, often considered deities or highly evolved yogis who function without a gross physical body).
+<dfn>Prakṛti-layānām</dfn>: of those merged in Prakṛti (primordial nature, those whose consciousness is temporarily resolved into the unmanifest cosmic matrix).
+</pre>
+
+Note: This sūtra points out that certain beings, known as 'videhas' (those who have transcended gross physical identification and exist in subtle forms) and 'prakṛtilayas' (those whose individual consciousness is temporarily absorbed into the undifferentiated source of nature, Prakṛti), can attain a state resembling asamprajñāta samādhi naturally, due to their advanced evolutionary status or meritorious past actions leading to such a birth. However, this is not liberation, as saṁskāras still remain.
+
+## Śraddhā ## {#sub1.20}
+
+Śraddhāvīryasmṛtisamādhiprajñāpūrvaka itareṣām.
+> For others (who are not videhas or prakṛtilayas), this (asamprajñāta samādhi) is preceded by faith (śraddhā), energy (vīrya), mindfulness (smṛti), deep concentration (samādhi), and discerning wisdom (prajñā).
+
+<pre class=simpledef>
+<dfn>Śraddhā</dfn>: faith, conviction, trust (in the path and teachings).
+<dfn>Vīrya</dfn>: energy, vigor, strength, courage.
+<dfn>Smṛti</dfn>: mindfulness, memory, recollection (of the path, goal, and techniques).
+<dfn>Samādhi</dfn>: deep concentration, meditative absorption (here referring to the samprajñāta stages that build the foundation).
+<dfn>Prajñā</dfn>: wisdom, discernment, direct intuitive insight.
+<dfn>Pūrvakaḥ</dfn>: preceded by, having as a prerequisite.
+<dfn>Itareṣām</dfn>: for others (ordinary aspirants).
+</pre>
+
+Note: For aspirants who do not naturally attain higher states of consciousness, Patañjali outlines a systematic, five-fold path of prerequisite qualities and efforts necessary to achieve asamprajñāta samādhi. This sequence involves cultivating: unwavering faith in the yogic path (śraddhā); applying persistent, dynamic energy and courage (vīrya); maintaining continuous mindfulness of the practice and its purpose (smṛti); achieving the foundational stages of cognitive absorption (samādhi, i.e., samprajñāta); and developing sharp, discerning wisdom (prajñā).
+
+## Tīvra Saṁvega ## {#sub1.21}
+
+Tīvrasaṁvegānāmāsannaḥ.
+> For those who practice with intense ardor and vigor, (the attainment of samādhi and its fruit) is near.
+
+<pre class=simpledef>
+<dfn>Tīvra-saṁvegānām</dfn>: of those with intense ardor, vehement desire, strong momentum, keen and swift effort.
+<dfn>Āsannaḥ</dfn>: near, imminent, quickly achieved.
+</pre>
+
+Note: The speed at which an aspirant progresses on the yogic path and attains the fruits of samādhi is directly proportional to the intensity, sincerity, and enthusiastic dedication (tīvra saṁvega) applied to the practice. Those who approach their sādhanā with keen, forceful, and unwavering commitment will find their spiritual goal much closer and more readily attainable.
+
+## Mṛdu Madhya Adhimātra ## {#sub1.22}
+
+Mṛdumadhyādhimātratvāttato'pi viśeṣaḥ.
+> Because of the practice being mild, medium, or intense, there is a further differentiation (in the time taken to attain samādhi and its results).
+
+<pre class=simpledef>
+<dfn>Mṛdu</dfn>: mild, soft, weak (level of practice).
+<dfn>Madhya</dfn>: medium, moderate (level of practice).
+<dfn>Adhimātra</dfn>: intense, extreme, strong, superior (level of practice).
+<dfn>Tvāt</dfn>: due to being so, because of the nature of.
+<dfn>Tataḥ api</dfn>: from that also, thence further.
+<dfn>Viśeṣaḥ</dfn>: distinction, difference, specialization (in outcome or speed of attainment).
+</pre>
+
+Note: Building on the previous sūtra, Patañjali further clarifies that practitioners will experience varying rates of progress based on the inherent quality and level of intensity they bring to their efforts. Whether their practice is mild (mṛdu), moderate (madhya), or exceedingly strong and dedicated (adhimātra), this will determine the relative proximity to, and the specific nature of, the attainment of samādhi and its subsequent spiritual insights. Even within the category of "intense" practitioners, further gradations exist.
+
+## Īśvara Praṇidhāna ## {#sub1.23}
+
+Īśvarapraṇidhānādvā.
+> Or, (samādhi is attained quickly) by profound devotion and surrender to Īśvara (the Supreme Being/God).
+
+<pre class=simpledef>
+<dfn>Īśvara</dfn>: the Supreme Being, God, the Divine Lord, the special Puruṣa.
+<dfn>Praṇidhānāt</dfn>: by devotion, by surrender, by dedication, by placing oneself completely at the disposal of.
+<dfn>Vā</dfn>: or (as an alternative or complementary means to quick attainment).
+</pre>
+
+Note: Patañjali offers an alternative or complementary path to accelerate the attainment of samādhi: through profound devotion, dedication, and complete surrender of the ego-self to Īśvara. This practice of orienting one's life, actions, and will towards a higher power or divine consciousness can swiftly lead to the stilling of the mind and the realization of spiritual truth, bypassing some of the more arduous efforts.
+
+## Īśvara ## {#sub1.24}
+
+Kleśakarmavipākāśayairaparāmṛṣṭaḥ puruṣaviśeṣa īśvaraḥ.
+> Īśvara is a special, distinct Puruṣa (Consciousness), untouched by afflictions (kleśas), actions (karma), their results (vipāka), and the latent impressions (āśayas) thereof.
+
+<pre class=simpledef>
+<dfn>Kleśa</dfn>: afflictions, impurities, causes of suffering (ignorance, egoism, attachment, aversion, clinging to life).
+<dfn>Karma</dfn>: actions (and their binding consequences).
+<dfn>Vipāka</dfn>: fruition (of karma), results of actions that ripen over time.
+<dfn>Āśayaiḥ</dfn>: by latent impressions, by deposits or residues in the subconscious (that store karma).
+<dfn>Aparāmṛṣṭaḥ</dfn>: untouched by, unaffected by, uncolored by.
+<dfn>Puruṣa-viśeṣaḥ</dfn>: a special or distinct Puruṣa (consciousness), a particular Self.
+<dfn>Īśvaraḥ</dfn>: the Supreme Being, God, the Lord.
+</pre>
+
+Note: This sūtra defines Īśvara not as a creator god in a conventional mythological sense, but as a unique, eternally free, and perfect Consciousness (Puruṣa-viśeṣa). Unlike individual souls (jīvas), Īśvara is forever beyond the reach of the causes of suffering—the kleśas (fundamental afflictions like ignorance), the entanglements of karma (actions and their reactions), the consequences of actions (vipāka), and the deep-seated subconscious tendencies (āśayas) that perpetuate the cycle of birth and death. This makes Īśvara an ideal object of contemplation and devotion.
+
+## Sarvajña Bījam ## {#sub1.25}
+
+Tatra niratiśayaṁ sarvajñabījam.
+> In Him (Īśvara), the seed of all-knowing (omniscience) is unsurpassed and limitless.
+
+<pre class=simpledef>
+<dfn>Tatra</dfn>: there, in Him (Īśvara).
+<dfn>Niratiśayam</dfn>: unsurpassed, perfect, absolute, beyond which there is nothing higher.
+<dfn>Sarvajña-bījam</dfn>: the seed of omniscience, the potential of all-knowing. (Sarvajña = all-knowing; Bījam = seed, source).
+</pre>
+
+Note: Īśvara possesses the absolute and ultimate potential of all knowledge and wisdom (sarvajña-bījam), complete and without any limitation (niratiśayam). This inherent omniscience in Īśvara is perfect and serves as the eternal source or archetype of all knowing. Contemplation on Īśvara, who embodies this limitless wisdom, can help the yogi access deeper understanding and truth.
+
+## Pūrveṣām Api Guruḥ ## {#sub1.26}
+
+Sa eṣa pūrveṣāmapi guruḥ kālenānavacchedāt.
+> He (Īśvara), being unconditioned and unlimited by time, is also the teacher of the most ancient teachers.
+
+<pre class=simpledef>
+<dfn>Saḥ eṣaḥ</dfn>: This very (Īśvara), He indeed.
+<dfn>Pūrveṣām api</dfn>: even of the former ones, of the ancient ones (teachers).
+<dfn>Guruḥ</dfn>: teacher, spiritual preceptor.
+<dfn>Kālena anavacchedāt</dfn>: because of not being limited/conditioned/divided by time.
+</pre>
+
+Note: Because Īśvara exists beyond the constraints and divisions of time (kālena anavacchedāt), He is the primordial and eternal source of wisdom, the original Guru from whom all subsequent lineages of teachers, even the most ancient ones, have derived their knowledge. This timeless nature means Īśvara's guidance is perpetually available to all seekers.
+
+## Praṇava ## {#sub1.27}
+
+Tasya vācakaḥ praṇavaḥ.
+> His (Īśvara's) designating word (expression) is Praṇava (the sacred syllable Om).
+
+<pre class=simpledef>
+<dfn>Tasya</dfn>: His (Īśvara's).
+<dfn>Vācakaḥ</dfn>: designator, signifier, conveyor, spoken symbol, name.
+<dfn>Praṇavaḥ</dfn>: the sacred syllable Om (Aum), the primordial sound.
+</pre>
+
+Note: The sacred syllable Om, also known as Praṇava, is the most profound verbal representation and sonic symbol of Īśvara. This primordial sound is considered to be the closest humanly expressible vibration to the ultimate reality and serves as a powerful tool for invoking, contemplating, and connecting with the Divine presence of Īśvara.
+
+## Japa ## {#sub1.28}
+
+Tajjapaḥ tadarthabhāvanam.
+> The repetition (japa) of it (Om) and meditation on its meaning (should be done).
+
+<pre class=simpledef>
+<dfn>Tat-japaḥ</dfn>: its repetition (japa of Om).
+<dfn>Tat-artha-bhāvanam</dfn>: contemplation/meditation on its meaning and significance.
+</pre>
+
+Note: To effectively connect with the essence of Īśvara through Praṇava (Om), Patañjali recommends a twofold practice: its repeated chanting or intonation (japa), which purifies the mind and attunes it to the divine vibration; and deep, sustained reflection (bhāvanam) upon its profound significance and the qualities of Īśvara it represents. This dual approach aids in internalizing the divine presence and understanding.
+
+## Pratyak Cetana Adhigamaḥ ## {#sub1.29}
+
+Tataḥ pratyakcetanādhigamo'pyantarāyābhāvaśca.
+> From that (practice of japa and bhāvanam of Om), comes the realization of the inner consciousness (individual Self) and the removal (absence) of obstacles.
+
+<pre class=simpledef>
+<dfn>Tataḥ</dfn>: from that, thence (from the practice described in 1.28).
+<dfn>Pratyak-cetana-adhigamaḥ</dfn>: realization/attainment of inner/individual consciousness (pratyak = inward, turned towards oneself; cetana = consciousness; adhigamaḥ = attainment, realization).
+<dfn>Api</dfn>: also, and.
+<dfn>Antarāya-abhāvaḥ</dfn>: disappearance/absence of obstacles (antarāya = obstacles; abhāvaḥ = absence, non-existence).
+<dfn>Ca</dfn>: and.
+</pre>
+
+Note: The dedicated practice of chanting Om and meditating on its meaning yields two significant results: it leads to the direct experience and understanding of one's own true inner Self or individual consciousness (pratyak-cetana), turning attention inward from external distractions. Simultaneously, this practice effectively helps in overcoming and dissolving the various mental, emotional, and physical impediments (antarāyas) that obstruct the path of yoga.
+
+## Vyādhi ## {#sub1.30}
+
+Vyādhistyānasaṁśayapramādālasyāviratibhrāntidarśanālabdhabhūmikatvānavasthitatvāni cittavikṣepāste'ntarāyāḥ.
+> Disease (vyādhi), mental dullness (styāna), doubt (saṁśaya), carelessness (pramāda), laziness (ālasya), sensuality or lack of dispassion (avirati), false perception or delusion (bhrānti-darśana), failure to attain firm ground or yogic states (alabdha-bhūmikatva), and instability in any state attained (anavasthitatvāni) – these mental distractions (citta-vikṣepāḥ) are the obstacles (antarāyāḥ).
+
+<pre class=simpledef>
+<dfn>Vyādhi</dfn>: disease, sickness, physical illness.
+<dfn>Styāna</dfn>: mental dullness, languor, apathy, lack of mental disposition for work.
+<dfn>Saṁśaya</dfn>: doubt, indecision, uncertainty.
+<dfn>Pramāda</dfn>: carelessness, negligence, inadvertence, lack of foresight.
+<dfn>Ālasya</dfn>: laziness, sloth, physical inertia.
+<dfn>Avirati</dfn>: sensuality, non-restraint, craving for sense objects, lack of dispassion.
+<dfn>Bhrānti-darśana</dfn>: erroneous perception, deluded view, false understanding.
+<dfn>Alabdha-bhūmikatva</dfn>: failure to attain a firm ground or stage (in yogic practice), non-attainment of a level.
+<dfn>Anavasthitatvāni</dfn>: instability, inability to maintain a state attained, falling away from a level achieved.
+<dfn>Citta-vikṣepāḥ</dfn>: distractions of the mind, scatterings of consciousness.
+<dfn>Te</dfn>: these.
+<dfn>Antarāyāḥ</dfn>: obstacles, impediments, hindrances.
+</pre>
+
+Note: Patañjali enumerates nine specific obstacles or distractions (antarāyāḥ) that scatter the mind (citta-vikṣepāḥ) and hinder progress in yoga. These range from physical ailments like disease (vyādhi) and various mental states such as dullness (styāna), doubt (saṁśaya), and carelessness (pramāda), to more subtle challenges related to the practice itself, like the inability to reach deeper states (alabdha-bhūmikatva) or maintain them (anavasthitatvāni). Recognizing these is the first crucial step to overcoming them.
+
+## Duḥkha Daurmanasya ## {#sub1.31}
+
+Duḥkhadaurmanasyāṅgamejayatvaśvāsapraśvāsā vikṣepasahabhuvaḥ.
+> Sorrow (duḥkha), despair or mental distress (daurmanasya), unsteadiness or trembling of the body (aṅgamejayatva), and irregular inhalation (śvāsa) and exhalation (praśvāsa) are the companions (or symptoms) that co-exist with these distractions.
+
+<pre class=simpledef>
+<dfn>Duḥkha</dfn>: pain, sorrow, suffering, misery (mental or physical).
+<dfn>Daurmanasya</dfn>: despair, dejection, mental distress, sadness, bad state of mind.
+<dfn>Aṅgamejayatva</dfn>: unsteadiness or trembling of the body/limbs (aṅga = limb/body; ejayatva = state of trembling).
+<dfn>Śvāsa</dfn>: irregular, disturbed, or hard inhalation.
+<dfn>Praśvāsāḥ</dfn>: irregular, disturbed, or hard exhalation (plural indicating repeated occurrences or connection with śvāsa).
+<dfn>Vikṣepa-sahabhuvaḥ</dfn>: companions/concomitants of the distractions, arising along with mental scattering.
+</pre>
+
+Note: This sūtra describes the observable symptoms or secondary consequences that often accompany the nine mental obstacles (vikṣepas) mentioned previously. These include emotional suffering such as grief and pain (duḥkha) and despondency or mental anguish (daurmanasya), physical manifestations like bodily restlessness or tremors (aṅgamejayatva), and physiological disturbances such as erratic, labored, or uncontrolled breathing patterns (śvāsa-praśvāsāḥ). These symptoms further agitate the mind and body, reinforcing the cycle of distraction.
+
+## Tat Pratiṣedhārtham Ekattva Abhyāsaḥ ## {#sub1.32}
+
+Tatpratiṣedhārthamekatattvābhyāsaḥ.
+> For their prevention (or removal and counteraction), the practice of (concentration on) a single principle or truth (eka-tattva) should be made.
+
+<pre class=simpledef>
+<dfn>Tat-pratiṣedha-artham</dfn>: for the purpose of their prevention/counteraction/removal (tat = their; pratiṣedha = prevention, removal; artham = for the sake of).
+<dfn>Eka-tattva-abhyāsaḥ</dfn>: practice of (concentration on) one principle/truth (eka = one; tattva = principle, reality, truth; abhyāsaḥ = practice).
+</pre>
+
+Note: To counteract and overcome the obstacles (antarāyas) and their accompanying symptoms, Patañjali recommends a powerful antidote: the focused and sustained practice (abhyāsa) of concentrating the mind on a single, chosen object, principle, or truth (eka-tattva). This unwavering, one-pointed focus helps to steady the mind, gather its scattered energies, and transcend the various distractions that impede yogic progress.
+
+## Citta Prasādanam ## {#sub1.33}
+
+Maitrīkaruṇāmuditopekṣāṇāṁ sukhaduḥkhapuṇyāpuṇyaviṣayāṇāṁ bhāvanātaścittaprasādanam.
+> By cultivating attitudes of friendliness (maitrī) towards the happy, compassion (karuṇā) for the suffering, joy (muditā) for the virtuous, and equanimity or indifference (upekṣā) towards the non-virtuous (or wicked), the mind becomes purified and tranquil (citta-prasādanam).
+
+<pre class=simpledef>
+<dfn>Maitrī</dfn>: friendliness, loving-kindness.
+<dfn>Karuṇā</dfn>: compassion.
+<dfn>Muditā</dfn>: sympathetic joy, delight in others' virtue/happiness.
+<dfn>Upekṣāṇām</dfn>: of equanimity, indifference, impartiality (towards those who are wicked or a-puṇya).
+<dfn>Sukha</dfn>: happiness, joy, pleasure.
+<dfn>Duḥkha</dfn>: suffering, pain, misery.
+<dfn>Puṇya</dfn>: virtue, merit, righteousness.
+<dfn>Apuṇya</dfn>: non-virtue, demerit, vice, sin.
+<dfn>Viṣayāṇām</dfn>: towards objects/persons (characterized by these qualities).
+<dfn>Bhāvanātaḥ</dfn>: by cultivating, by dwelling upon, by projecting these attitudes.
+<dfn>Citta-prasādanam</dfn>: purification/clarification/pacification/serenity of the mind.
+</pre>
+
+Note: This sūtra offers a profound psychological practice for purifying and calming the mind (citta-prasādanam), making it clear and serene. By consciously cultivating and projecting specific attitudes towards others based on their situation—friendliness towards those who are happy (maitrī), deep compassion for those in distress (karuṇā), appreciative joy for the virtuous and their good deeds (muditā), and a stance of equanimity or detached impartiality towards those perceived as unwholesome or engaged in wrongdoing (upekṣā)—the mind becomes free from reactive emotions like jealousy, hatred, and agitation, leading to inner peace.
+
+## Prachchhardana Vidhāraṇābhyāṁ Vā Prāṇasya ## {#sub1.34}
+
+Prachchhardanavidhāraṇābhyāṁ vā prāṇasya.
+> Or (the mind is calmed and stabilized) by the (controlled) expulsion (exhalation) and retention of breath (prāṇa).
+
+<pre class=simpledef>
+<dfn>Prachchhardana</dfn>: (gentle, prolonged, controlled) exhalation, expulsion (of breath).
+<dfn>Vidhāraṇābhyām</dfn>: by retention, by holding (of breath) (dual instrumental case, implying both processes or their combination).
+<dfn>Vā</dfn>: or (as an alternative method for citta-prasādanam).
+<dfn>Prāṇasya</dfn>: of the breath, of prāṇa (vital life force).
+</pre>
+
+Note: As an alternative technique for calming and stabilizing the mind, Patañjali suggests specific breath control practices (prāṇāyāma). These involve the regulated and conscious exhalation (prachchhardana), which helps to release impurities and tensions, and the controlled retention (vidhāraṇa) of prāṇa, the vital life energy of which breath is a primary physical expression. Such practices have a direct and profound impact on steadying mental activity and promoting tranquility.
+
+## Viṣayavatī ## {#sub1.35}
+
+Viṣayavatī vā pravṛttirutpannā manasaḥ sthitinibandhanī.
+> Or, an engrossing (pravṛtti) sensory experience (viṣayavatī) that has arisen, focusing on it, binds the mind to steadiness.
+
+<pre class=simpledef>
+<dfn>Viṣayavatī</dfn>: related to a sense object, having a sensory focus, possessing an object.
+<dfn>Vā</dfn>: or.
+<dfn>Pravṛttiḥ utpannā</dfn>: activity, perception, or higher sense experience having arisen or emerged.
+<dfn>Manasaḥ</dfn>: of the mind.
+<dfn>Sthiti-nibandhanī</dfn>: binding to steadiness, causing stability, a means of fixing.
+</pre>
+
+Note: Another method to achieve mental stability is to focus the mind intently on a subtle and captivating sensory perception as it arises (pravṛttiḥ utpannā). This could be an inner experience of divine sound, light, fragrance, taste, or touch (viṣayavatī). When the mind becomes absorbed in such a refined and engaging sensory experience, it can become steady, one-pointed, and free from its usual distractions.
+
+## Viśokā Vā Jyotiṣmatī ## {#sub1.36}
+
+Viśokā vā jyotiṣmatī.
+> Or, (by meditating on) the sorrowless and luminous (inner light or state of consciousness).
+
+<pre class=simpledef>
+<dfn>Viśokā</dfn>: sorrowless, free from grief, beyond pain.
+<dfn>Vā</dfn>: or.
+<dfn>Jyotiṣmatī</dfn>: luminous, effulgent, full of light, radiant (referring to a state of inner perception or the light of the Self).
+</pre>
+
+Note: Meditating on a radiant, sorrowless inner light (jyotiṣmatī) or a state of consciousness that is inherently blissful and free from suffering (viśokā) is another powerful technique for calming and stabilizing the mind. This practice involves focusing on an effulgent, peaceful state within, which helps to transcend mental agitations, dispel darkness, and bring about tranquility, clarity, and joy.
+
+## Vītarāga Viṣayaṁ Vā Cittam ## {#sub1.37}
+
+Vītarāgaviṣayaṁ vā cittam.
+> Or, (by making the object of meditation) a mind (cittam) that is free from passion and attachment (vītarāga), such as the mind of an enlightened being.
+
+<pre class=simpledef>
+<dfn>Vīta-rāga</dfn>: free from passion/attachment/desire (vīta = gone, free from; rāga = attachment, passion, craving).
+<dfn>Viṣayam</dfn>: having as object (of contemplation).
+<dfn>Vā</dfn>: or.
+<dfn>Cittam</dfn>: mind, consciousness.
+</pre>
+
+Note: Stability of mind can also be achieved by contemplating or making the object of one's meditation the consciousness (cittam) of a person who has completely overcome worldly attachments, desires, and aversions (a vītarāga being, like a sage or saint). Focusing on such a purified, tranquil, and liberated mind can inspire and induce a similar state of dispassion and serenity in the practitioner.
+
+## Svapna Nidrā Jñānālambanaṁ Vā ## {#sub1.38}
+
+Svapnanidrājñānālambanaṁ vā.
+> Or, (by taking) as support for meditation the knowledge or experience (jñāna) derived from the states of dream (svapna) or deep sleep (nidrā).
+
+<pre class=simpledef>
+<dfn>Svapna</dfn>: dream state.
+<dfn>Nidrā</dfn>: deep sleep state.
+<dfn>Jñāna</dfn>: knowledge, cognition, experience.
+<dfn>Ālambanam</dfn>: having as support, taking as basis for meditation.
+<dfn>Vā</dfn>: or.
+</pre>
+
+Note: The mind can also be steadied by reflecting upon and drawing insights from the nature of consciousness as experienced in the states of dream (svapna) and deep, dreamless sleep (nidrā). Contemplating the content of dreams, the nature of the dreaming mind, or the peaceful void and restorative quality experienced in sound sleep can serve as a support (ālambanam) for achieving mental calmness and understanding the different layers of consciousness.
+
+## Yathābhimata Dhyānād Vā ## {#sub1.39}
+
+Yathābhimatadhyānādvā.
+> Or, by meditating on whatever is agreeable, uplifting, or deeply appealing to oneself.
+
+<pre class=simpledef>
+<dfn>Yathā-abhimata</dfn>: according to what is agreeable/desired/pleasing/approved by oneself.
+<dfn>Dhyānāt</dfn>: by meditation, from meditation.
+<dfn>Vā</dfn>: or.
+</pre>
+
+Note: Patañjali offers a very practical and accessible method for stabilizing the mind: meditation (dhyāna) on any object, symbol, deity, concept, or ideal that one finds personally uplifting, inspiring, or deeply appealing (yathā abhimata). The key is that the chosen object should be one that naturally holds the mind's attention in a positive, wholesome, and absorbing way, leading to one-pointedness.
+
+## Paramāṇu Paramamahattvāntaḥ Asya Vaśīkāraḥ ## {#sub1.40}
+
+Paramāṇuparamamahattvānto'sya vaśīkāraḥ.
+> His (the yogi's who has achieved mental stability) mastery (vaśīkāraḥ) extends from the smallest particle (paramāṇu) to the infinitely great (paramamahattva).
+
+<pre class=simpledef>
+<dfn>Paramāṇu</dfn>: the smallest particle, atom, infinitesimal.
+<dfn>Parama-mahattva</dfn>: the infinitely great, utmost magnitude, boundless.
+<dfn>Antaḥ</dfn>: ending in, extending to, up to the limit of.
+<dfn>Asya</dfn>: his (the yogi's).
+<dfn>Vaśīkāraḥ</dfn>: mastery, control, command, full command.
+</pre>
+
+Note: When the yogi has successfully stabilized the mind through the aforementioned practices, their capacity for concentration and understanding becomes so profound and versatile that they can gain complete mastery (vaśīkāraḥ) and focused awareness on any object of contemplation. This mastery spans the entire spectrum of existence, from the most infinitesimally small (paramāṇu) to the unimaginably vast and boundless (paramamahattva), indicating a highly developed and adaptable state of mental control and insight.
+
+## Samāpattiḥ ## {#sub1.41}
+
+Kṣīṇavṛtterabhijātasyeva maṇergrahītṛgrahaṇagrāhyeṣu tatsthatadañjanatā samāpattiḥ.
+> When the mental modifications (vṛttis) have dwindled, the mind becomes like a transparent crystal (abhijātasya maṇeḥ iva), taking on the qualities (tadañjanatā) of whatever object it rests upon (tatstha) – whether that be the knower (grahītṛ), the instrument of knowing (grahaṇa), or the object known (grāhya) – this is called samāpatti (transformative cognitive fusion or complete absorption).
+
+<pre class=simpledef>
+<dfn>Kṣīṇa-vṛtteḥ</dfn>: of one whose mental modifications (vṛttis) have dwindled/weakened/subsided.
+<dfn>Abhijātasya-iva maṇeḥ</dfn>: like a transparent crystal/gem of high quality.
+<dfn>Grahītṛ</dfn>: the knower, the perceiver (the Self, Puruṣa).
+<dfn>Grahaṇa</dfn>: the instrument of knowing (the mind, intellect, senses).
+<dfn>Grāhyeṣu</dfn>: on the knowable, the object of perception (gross or subtle).
+<dfn>Tat-stha-tadañjanatā</dfn>: the state of being fixed on that (tat-stha) and colored by that or taking on its qualities (tad-añjanatā).
+<dfn>Samāpattiḥ</dfn>: transformative cognitive fusion, complete absorption, engrossment, perfect balance.
+</pre>
+
+Note: This sūtra describes the state of samāpatti, a deep cognitive absorption that occurs when the mind's usual fluctuations (vṛttis) are significantly calmed and diminished (kṣīṇa). In this state, the mind, like a pure, clear crystal, reflects perfectly and without distortion the nature of whatever it focuses on. It achieves a complete identification with the object of meditation, whether that object is the perceiver itself (grahītṛ), the instruments of perception like the mind or senses (grahaṇa), or the external objects being perceived (grāhya).
+
+## Savitarkā Samāpattiḥ ## {#sub1.42}
+
+Tatra śabdārthajñānavikalpaiḥ saṅkīrṇā savitarkā samāpattiḥ.
+> Savitarkā samāpatti (cognitive fusion with gross reasoning) is that in which the object of meditation is intermingled and confused with the word (śabda) designating it, its meaning or objective reality (artha), and the conceptual knowledge or idea (jñāna-vikalpa) about it.
+
+<pre class=simpledef>
+<dfn>Tatra</dfn>: there, in that context (of samāpatti on a gross object).
+<dfn>Śabda</dfn>: word, sound, name.
+<dfn>Artha</dfn>: meaning, object, substance.
+<dfn>Jñāna</dfn>: knowledge, idea, concept.
+<dfn>Vikalpaiḥ</dfn>: by conceptualizations, by mental constructs (here, jñāna is often understood as the conceptual understanding arising from śabda and artha).
+<dfn>Saṅkīrṇā</dfn>: mixed, intermingled, confused, not clearly distinguished.
+<dfn>Savitarkā samāpattiḥ</dfn>: cognitive fusion with gross reasoning/deliberation/analysis.
+</pre>
+
+Note: Savitarkā samāpatti is the initial stage of this deep cognitive absorption when the mind is focused on a gross (sthūla) physical object. However, in this phase, the direct perception of the object is still mixed up and not clearly differentiated (saṅkīrṇā) from its name or verbal label (śabda), its actual substance or meaning (artha), and the associated conceptual knowledge or mental constructs (jñāna-vikalpa) about it. The awareness hasn't yet transcended these linguistic and conceptual layers to perceive the object in its pure form.
+
+## Nirvitarkā Samāpattiḥ ## {#sub1.43}
+
+Smṛtipariśuddhau svarūpaśūnyevārthamātranirbhāsā nirvitarkā.
+> Nirvitarkā samāpatti (cognitive fusion without gross reasoning) is attained when memory (smṛti) is purified (of verbal and conceptual associations), and the mind, as if devoid of its own form (svarūpa-śūnya iva), shines forth with the object's true nature alone (artha-mātra-nirbhāsā).
+
+<pre class=simpledef>
+<dfn>Smṛti-pariśuddhau</dfn>: on the purification of memory (when memory of word/concept associations is cleared away).
+<dfn>Svarūpa-śūnya-iva</dfn>: as if devoid of its own (the mind's) form/nature, as if empty of its own identity.
+<dfn>Artha-mātra-nirbhāsā</dfn>: shining forth with the object only, where only the object's essential reality is illuminated.
+<dfn>Nirvitarkā</dfn>: without gross reasoning/deliberation (the samāpatti is nirvitarkā).
+</pre>
+
+Note: Nirvitarkā samāpatti represents a deeper level of cognitive fusion with a gross object. It occurs when the mind transcends the entanglement with words, meanings, and conceptual knowledge that characterized savitarkā samāpatti. The memory (smṛti) of these associations is purified or set aside, and the mind, appearing to lose its own reflective nature (svarūpa-śūnya iva), directly reflects and becomes one with the object's essential reality alone (artha-mātra). This offers a pure, unmediated perception of the object.
+
+## Savicārā Nirvicārā Ca Sūkṣmaviṣayā ## {#sub1.44}
+
+Etayaiva savicārā nirvicārā ca sūkṣmaviṣayā vyākhyātā.
+> By this same (logic or process as described for gross objects), savicārā (cognitive fusion with subtle reflection) and nirvicārā (cognitive fusion without subtle reflection), which have subtle objects (sūkṣma-viṣayā) as their domain, are also explained.
+
+<pre class=simpledef>
+<dfn>Etayā eva</dfn>: by this itself, in the same way, by this same reasoning.
+<dfn>Savicārā</dfn>: (samāpatti) with subtle reflection/contemplation.
+<dfn>Nirvicārā</dfn>: (samāpatti) without subtle reflection/contemplation.
+<dfn>Ca</dfn>: and.
+<dfn>Sūkṣma-viṣayā</dfn>: having subtle objects as its sphere/domain (sūkṣma = subtle; viṣayā = having as object).
+<dfn>Vyākhyātā</dfn>: is explained, has been described.
+</pre>
+
+Note: Patañjali extends the principles of samāpatti involving reasoning (vitarka) and its absence (nirvitarka) from gross objects to the contemplation of subtle objects (sūkṣma viṣaya). These subtle objects include the tanmātras (subtle sensory potentials), ahamkāra (the I-maker or ego principle), mahat (cosmic intelligence), and Prakṛti. Savicārā samāpatti involves reflective awareness and conceptual understanding of these subtle objects, including their time, space, and causal aspects. Nirvicārā samāpatti is a more refined state where even this subtle reflective process ceases, and the mind directly intuits the pure essence of the subtle object, unmixed with reflective thought.
+
+## Aliṅga ## {#sub1.45}
+
+Sūkṣmaviṣayatvaṁ cāliṅgaparyavasānam.
+> The domain of subtle objects (sūkṣma-viṣayatvam) extends up to and culminates in the unmanifest primordial nature (aliṅga or Prakṛti).
+
+<pre class=simpledef>
+<dfn>Sūkṣma-viṣayatvam</dfn>: the nature of having subtle objects, the subtlety of objects, the progression of subtle objects.
+<dfn>Ca</dfn>: and.
+<dfn>Aliṅga-paryavasānam</dfn>: culminating in the aliṅga (a = not; liṅga = mark, characteristic, manifest sign; paryavasānam = ending in, culminating in). Aliṅga refers to the unmanifest, undifferentiated Prakṛti, the root of all manifestation.
+</pre>
+
+Note: The progression of meditative absorption on increasingly subtle objects (sūkṣma viṣaya) eventually leads the yogi's focused awareness to the very source of all manifestation, the ultimate subtle principle known as aliṅga. This is Prakṛti (primordial nature) in its most undifferentiated, unmanifest state, beyond all specific forms, characteristics, or marks (liṅga). It is the root cause of the phenomenal world, the final frontier of subtle objective reality before consciousness turns fully towards the Puruṣa.
+
+## Sabījaḥ Samādhiḥ ## {#sub1.46}
+
+Tā eva sabījaḥ samādhiḥ.
+> These (samāpattis – savitarkā, nirvitarkā, savicārā, nirvicārā) indeed are samādhi with seed (sabījaḥ samādhiḥ).
+
+<pre class=simpledef>
+<dfn>Tāḥ eva</dfn>: these indeed, they themselves (referring to the four types of samāpatti described).
+<dfn>Sabījaḥ samādhiḥ</dfn>: samādhi with seed (sa = with; bīja = seed).
+</pre>
+
+Note: All the previously described states of cognitive absorption (samāpatti)—savitarkā, nirvitarkā, savicārā, and nirvicārā—are collectively categorized as 'sabīja samādhi' or 'samādhi with seed'. This is because, despite the profound concentration and clarity achieved, they still operate with an object of focus (gross or subtle) and thus retain the "seeds" (bīja) of latent impressions (saṁskāras) and the potential for future mental activity, identification, and rebirth. They are powerful states but not the final liberation.
+
+## Adhyātma Prasādaḥ ## {#sub1.47}
+
+Nirvicāravaiśāradye'dhyātmaprasādaḥ.
+> Upon attaining proficiency, skill, and undisturbed lucidity (vaiśāradye) in nirvicārā samāpatti, supreme clarity and inner spiritual radiance (adhyātma-prasādaḥ) dawns.
+
+<pre class=simpledef>
+<dfn>Nirvicāra-vaiśāradye</dfn>: on attaining skill/mastery/lucidity/undisturbed flow in nirvicārā (samāpatti). (Vaiśāradya = skill, purity, clarity, expertness).
+<dfn>Adhyātma-prasādaḥ</dfn>: spiritual clarity/serenity, inner luminosity, grace of the Self, tranquility of the innermost Self. (Adhyātma = pertaining to the Self; prasāda = clarity, grace, serenity).
+</pre>
+
+Note: When the yogi achieves exceptional skill, stability, and an undisturbed, lucid flow (vaiśāradye) in nirvicārā samāpatti (the state of direct, non-reflective intuition of subtle objects), a profound spiritual illumination called 'adhyātma-prasāda' arises. This is characterized by an exceptionally serene, bright, pure, and unclouded state of inner consciousness, a direct flow of wisdom and tranquility emanating from the deepest Self.
+
+## Ṛtaṁbharā Prajñā ## {#sub1.48}
+
+Ṛtaṁbharā tatra prajñā.
+> In that (state of adhyātma-prasāda), the wisdom (prajñā) is filled with truth (ṛtaṁbharā).
+
+<pre class=simpledef>
+<dfn>Ṛtaṁbharā</dfn>: truth-bearing, truth-filled, filled with cosmic order/truth (ṛta = truth, cosmic order; bharā = bearing, full of).
+<dfn>Tatra</dfn>: there, in that (state of adhyātma-prasāda).
+<dfn>Prajñā</dfn>: wisdom, direct intuitive knowledge, higher consciousness.
+</pre>
+
+Note: The wisdom (prajñā) that arises and functions within the state of adhyātma-prasāda, following mastery in nirvicārā samāpatti, is called 'ṛtaṁbharā prajñā'. This is not ordinary intellectual knowledge but a direct, intuitive apprehension of reality that is unerringly aligned with and full of cosmic truth (ṛta). It is a faculty of direct insight that perceives things as they truly are, free from any distortion, error, or subjective coloring.
+
+## Śruta Anumāna ## {#sub1.49}
+
+Śrutānumānaprajñābhyāmanyaviṣayā viśeṣārthatvāt.
+> This (ṛtaṁbharā prajñā) has a different object or sphere (anya-viṣayā) than the wisdom gained from testimony or scriptures (śruta) or from inference (anumāna), because its object is the specific and unique essence of things (viśeṣa-arthatvāt), not graspable by those other means.
+
+<pre class=simpledef>
+<dfn>Śruta</dfn>: heard, learned from scriptures or authoritative testimony.
+<dfn>Anumāna</dfn>: inference, logical reasoning.
+<dfn>Prajñābhyām</dfn>: from the wisdom (obtained through these two means, śruta and anumāna).
+<dfn>Anya-viṣayā</dfn>: having a different object or sphere, relating to a different domain.
+<dfn>Viśeṣa-arthatvāt</dfn>: because of having a specific or particular purpose/object, due to its concern with particulars or unique essences.
+</pre>
+
+Note: The truth-bearing wisdom (ṛtaṁbharā prajñā) born from deep samādhi provides insights into realities that are far more subtle, direct, and particular than what can be understood through scriptural learning (śruta) or logical reasoning (anumāna). Its domain is the direct perception of the unique essence (viśeṣa-artha) of objects, including those subtle aspects of reality and the Self that are beyond the reach of conventional, indirect means of knowledge. It reveals the specific truth of an object, not just generalities.
+
+## Saṁskāra Pratibandhī ## {#sub1.50}
+
+Tajjaḥ saṁskāro'nyasaṁskārapratibandhī.
+> The latent impression (saṁskāraḥ) born of that (ṛtaṁbharā prajñā) obstructs and eventually overpowers other (habitual) latent impressions.
+
+<pre class=simpledef>
+<dfn>Tat-jaḥ saṁskāraḥ</dfn>: the latent impression born of that (ṛtaṁbharā prajñā). (Tat = that; jaḥ = born of).
+<dfn>Anya-saṁskāra-pratibandhī</dfn>: which obstructs/prevents/supersedes/inhibits other latent impressions. (Anya = other; saṁskāra = latent impressions; pratibandhī = obstructing, counteracting).
+</pre>
+
+Note: The profound, truth-filled wisdom of ṛtaṁbharā prajñā creates a powerful new subconscious impression or tendency (saṁskāra) in the mind. This new, spiritually potent saṁskāra, born of direct insight into truth, has the unique quality of counteracting, weakening, and eventually replacing all other pre-existing latent impressions (saṁskāras) that bind the mind to ignorance, habitual patterns, and the cycle of suffering. It acts as a purifying force within the subconscious.
+
+## Nirbījaḥ Samādhiḥ ## {#sub1.51}
+
+Tasyāpi nirodhe sarvanirodhānnirbījaḥ samādhiḥ.
+> With the cessation (nirodhe) even of that (saṁskāra born of ṛtaṁbharā prajñā), all (other saṁskāras) having ceased (sarva-nirodhāt), seedless samādhi (nirbījaḥ samādhiḥ) is attained.
+
+<pre class=simpledef>
+<dfn>Tasya api nirodhe</dfn>: on the cessation/restraint even of that (saṁskāra of ṛtaṁbharā prajñā). (Tasya = of that; api = even; nirodhe = on the cessation).
+<dfn>Sarva-nirodhāt</dfn>: from the cessation of all (saṁskāras), all being restrained. (Sarva = all; nirodhāt = due to cessation).
+<dfn>Nirbījaḥ samādhiḥ</dfn>: seedless samādhi (nir = without; bīja = seed).
+</pre>
+
+Note: The ultimate state of yoga, nirbīja samādhi (samādhi without seed), is achieved when even the highly refined and purifying saṁskāra produced by ṛtaṁbharā prajñā is transcended and stilled through the highest form of non-attachment (parama vairāgya). In this state, all latent impressions and the very potential for mental activity are completely dissolved. Consciousness (Puruṣa) abides in its purest, unmodified form, free from any object, identification, or seed of future becoming. This marks the culmination of the yogic path to liberation described in this chapter.
+
+
