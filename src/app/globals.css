@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+:root {
+  --background: #FFF3E0;
+  --foreground: #401A06;
+  --button: #008080E6;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #1e180e;
+    --foreground: #FAFAF9;
+    --button: #00B3B3;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+.dark {
+  --background: #1e180e;
+  --foreground: #FAFAF9;
+  --button: #00B3B3;
+}
+
+.light {
+  --background: #FFF3E0;
+  --foreground: #401A06;
+  --button: #008080E6;
+}

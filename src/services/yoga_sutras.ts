@@ -2,6 +2,7 @@ import { yoga_sutras_samadhi_pada } from "./sutra_ch01";
 import { yoga_sutras_sadhana_pada } from "./sutra_ch02";
 import { yoga_sutras_vibhuti_pada } from "./sutra_ch03";
 import { yoga_sutras_kaivalya_pada } from "./sutra_ch04";
+import { chapters } from "./sutra_chapter_titles";
 
 // Define a type for the verse structure (optional, but good practice)
 export interface YogaSutra {
@@ -15,6 +16,14 @@ export interface YogaSutra {
   insights_jp?: string; // Philosophical insights in Japanese
 }
 
+export interface Chapter {
+  id: number;
+  title: string;
+  title_jp: string;
+  description: string;
+  description_jp: string;
+}
+
 const sutrasArray = [
   ...yoga_sutras_samadhi_pada,
   ...yoga_sutras_sadhana_pada,
@@ -23,3 +32,4 @@ const sutrasArray = [
 ];
 
 export const yoga_sutras : YogaSutra[] = sutrasArray.flat();
+export const yoga_sutra_chapters : Chapter[] = chapters;
