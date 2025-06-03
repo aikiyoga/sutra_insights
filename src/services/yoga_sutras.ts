@@ -33,3 +33,6 @@ const sutrasArray = [
 
 export const yoga_sutras : YogaSutra[] = sutrasArray.flat();
 export const yoga_sutra_chapters : Chapter[] = chapters;
+
+export const yoga_sutra_title: string = "Yoga Sutras of Patanjali";
+export const yoga_sutra_title_jp: string = "パタンジャリのヨーガ・スートラ";

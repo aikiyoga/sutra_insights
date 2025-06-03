@@ -7,7 +7,7 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     text: "atha yogānuśāsanam",
     importance: 10,
     translation: "Now, the exposition of Yoga is being made.",
-    translation_jp: "さて、ヨーガの教え（が始まる）。",
+    translation_jp: "さて、ヨーガの教えを始めよう。",
     insights: "This foundational sutra signals the sacred and timely commencement of the yoga path. “Atha” indicates spiritual readiness, implying that true yoga practice begins when the seeker is inwardly prepared to absorb the teachings at the deepest level.",
     insights_jp: "この最初のスートラは、ヨーガの道が神聖かつ適切な時に始まることを示しています。「アタ」は内面的な準備が整ったことを表し、学び手が最も深いレベルで教えを受け入れる用意ができた時に、真のヨーガが始まることを意味します。"
   },

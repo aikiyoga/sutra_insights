@@ -4,6 +4,8 @@
   --background: #FFF3E0;
   --foreground: #401A06;
   --button: #008080E6;
+  --card-bg: #fffefb;
+  --card-fg: #401A06;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -11,6 +13,8 @@
     --background: #1e180e;
     --foreground: #FAFAF9;
     --button: #00B3B3;
+    --card-bg: #FAFAF9;
+    --card-fg: #1e180e;
   }
 }
 

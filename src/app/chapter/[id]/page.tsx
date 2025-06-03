@@ -1,5 +1,5 @@
-import { yoga_sutras } from '@/services/yoga_sutras';
-import SutraList from '@/components/SutraList';
+import { yoga_sutras, yoga_sutra_chapters } from '@/services/yoga_sutras';
+import ChapterContent from '@/components/ChapterContent';
 
 export function generateStaticParams() {
   return [
@@ -10,24 +10,17 @@ export function generateStaticParams() {
   ];
 }
 
-const chapterNames = {
-  1: 'Samadhi Pada',
-  2: 'Sadhana Pada',
-  3: 'Vibhuti Pada',
-  4: 'Kaivalya Pada',
-};
-
 export default async function ChapterPage({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
   const chapterId = parseInt(id);
   const chapterSutras = yoga_sutras.filter(sutra => sutra.chapter === chapterId);
+  const chapter = yoga_sutra_chapters.find(chapter => chapter.id === chapterId);
   
+  if (!chapter) {
+    return <div>Chapter not found</div>;
+  }
+
   return (
-    <div className="max-w-4xl mx-auto">
-      <h1 className="text-3xl font-bold mb-2 text-center">
-        Chapter {chapterId}: {chapterNames[chapterId as keyof typeof chapterNames]}
-      </h1>
-      <SutraList sutras={chapterSutras} />
-    </div>
+    <ChapterContent chapterId={chapterId} chapter={chapter} sutras={chapterSutras} />
   );
 }
