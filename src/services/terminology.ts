@@ -1622,6 +1622,13 @@ export const yoga_sutra_terms = {
         insights: "Samprajnata Samadhi is a state of deep contemplation and absorption, where the mind is unified with the object of meditation. It is a crucial step in the practice of yoga, leading to profound insights and liberation.",
         insights_jp: "サンプラジュニャータ・サマーディは、心が瞑想の対象と統合された深く冥想する状態です。これはヨーガの修行の重要なステップであり、深い洞察と解き放たれにつながります。"
     },
+    Samsara: {
+        refs: [],
+        definition: "The cycle of birth, death, and rebirth; the continuous flow of worldly existence shaped by karma and ignorance.",
+        definition_jp: "輪廻転生。カルマと無知によって形作られる、誕生・死・再生の絶え間ない流れ。",
+        insights: "Samsara, in yoga philosophy, represents the endless cycle of birth, death, and rebirth driven by ignorance (avidya) and karma. Liberation (kaivalya or moksha) is achieved by breaking free from samsara through the realization of one's true nature, transcending the limitations of body and mind.",
+        insights_jp: "ヨーガ哲学においてサンサーラは、無知（アヴィディヤ）とカルマによって推進される生と死の終わりなき輪廻を表します。真の自己（本質）の悟りによって、このサンサーラから解放されることが、解脱（カイヴァリヤ／モークシャ）の目標です。"
+    },
     Samsaya: {
         refs: [
             {
