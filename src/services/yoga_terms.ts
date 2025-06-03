@@ -1,9 +1,13 @@
 import { yoga_sutra_terms } from "./terminology";
 
-interface Terminology {
-    term: string;
+interface Reference {
     chapter: number;
     verse: number;
+}
+
+interface Terminology {
+    term: string;
+    refs: Reference[];
     definition: string;
     definition_jp: string;
     insights: string;

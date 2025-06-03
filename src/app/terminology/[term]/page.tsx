@@ -15,16 +15,13 @@ export default function TermDetailPage() {
   );
 
   // Find related sutras by matching chapter & verse
-  const relatedSutras = [];
+  const relatedSutras: typeof yoga_sutras = [];
   if (entry) {
 
     relatedSutras.push(
       ...yoga_sutras.filter(
         (sutra) =>
-          entry.chapter &&
-          entry.verse &&
-          sutra.chapter === entry.chapter &&
-          sutra.verse === entry.verse
+          entry.refs.some(ref => sutra.chapter === ref.chapter && sutra.verse === ref.verse)
       )
     );
   }
