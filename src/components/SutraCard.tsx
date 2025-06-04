@@ -24,7 +24,7 @@ export default function SutraCard({ sutra }: { sutra: YogaSutra }) {
 
   return (
       <div 
-        className="p-4 rounded-lg shadow-md cursor-pointer"
+        className="p-4 rounded-lg shadow-md hover:shadow-lg cursor-pointer"
         style={{ backgroundColor: 'var(--card-bg)' }}
         onClick={() => setShowInsights(!showInsights)}
       >

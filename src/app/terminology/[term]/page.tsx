@@ -1,9 +1,11 @@
 'use client';
 
+import Link from 'next/link';
 import { useParams } from 'next/navigation';
 import { useTheme } from '@/context/ThemeContext';
 import { yoga_sutra_terminology } from '@/services/yoga_terms';
 import { yoga_sutras } from '@/services/yoga_sutras'; // import all pada as needed
+import SutraCard from "@/components/SutraCard";
 
 export default function TermDetailPage() {
   const { term } = useParams();
@@ -37,12 +39,18 @@ export default function TermDetailPage() {
 
   return (
     <div className="container mx-auto p-4">
+      <Link href="/terminology" className="text-blue-600 hover:underline inline-block mb-4"
+        >
+        {language === 'jp' ? '＜一覧へ戻る' : '< Back to List'}
+      </Link>
+      <div className="block p-4 rounded-lg shadow-xl"
+      >
       <h1 className="text-2xl font-bold mb-2">{entry.term}</h1>
-      <p className="mb-2">
+      <p className="mb-2 text-lg">
         <strong>{language === 'jp' ? '定義：' : 'Definition: '}</strong>
         {language === 'jp' ? entry.definition_jp : entry.definition}
       </p>
-      <p className="mb-4">
+      <p className="mb-4 text-lg">
         <strong>{language === 'jp' ? '洞察：' : 'Insights: '}</strong>
         {language === 'jp' ? entry.insights_jp : entry.insights}
       </p>
@@ -52,24 +60,21 @@ export default function TermDetailPage() {
           <h2 className="text-xl font-semibold mt-4 mb-2">
             {language === 'jp' ? '関連するスートラ' : 'Related Sutras'}
           </h2>
-          <ul className="space-y-2">
+          <div className="space-y-4">
             {relatedSutras.map((sutra) => (
-              <li key={`sutra-${sutra.chapter}-${sutra.verse}`} className="border rounded p-2">
-                <div>
-                  <strong>
-                    {language === 'jp'
-                      ? `第${sutra.chapter}章 ${sutra.verse}節`
-                      : `Chapter ${sutra.chapter}, Verse ${sutra.verse}`}
-                  </strong>
-                </div>
-                <div>
-                  {language === 'jp' ? sutra.translation_jp : sutra.translation}
-                </div>
-              </li>
+              <SutraCard sutra={sutra} key={`sutra-${sutra.chapter}-${sutra.verse}`} />
             ))}
-          </ul>
+          </div>
         </div>
       )}
+      {relatedSutras.length === 0 && (
+        <div>
+          <h2 className="text-xl font-semibold mt-4 mb-2">
+            {language === 'jp' ? '関連するスートラはありません' : 'No Related Sutras'}
+          </h2>
+        </div> 
+      )}
+      </div>
     </div>
   );
 }

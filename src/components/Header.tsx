@@ -10,19 +10,24 @@ export default function Header() {
   return (
     <header className="py-2 px-6 shadow-md">
       <div className="container mx-auto flex justify-between items-center">
-        <Link href="/" className="flex items-center text-2xl font-bold gap-2">
-          <Image
-            src={'/scroll_icon.png'}
-            alt="Scroll Icon"
-            width={48}
-            height={48}
-            style={{ minWidth: 32, minHeight: 32 }}
-          />
-          Sutra Insights
-        </Link>
-        <Link href="/terminology" className="text-lg font-medium text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-gray-100">
-          {language === 'jp' ? '用語集' : 'Terminology'}
-        </Link>
+        <div className="flex items-center gap-6">
+          <Link href="/" className="flex items-center text-2xl font-bold gap-2">
+            <Image
+              src={'/scroll_icon.png'}
+              alt="Scroll Icon"
+              width={48}
+              height={48}
+              style={{ minWidth: 32, minHeight: 32 }}
+            />
+            Sutra Insights
+          </Link>
+          <Link href="/" className="flex items-center text-lg font-medium text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-gray-100 gap-2">
+            {language === 'jp' ? 'ホーム' : 'Home'}
+          </Link>
+          <Link href="/terminology" className="flex items-center text-lg font-medium text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-gray-100">
+            {language === 'jp' ? '用語集' : 'Terminology'}
+          </Link>
+        </div>
         <div className="flex items-center gap-1">
           <button
             onClick={() => setLanguage('en')}

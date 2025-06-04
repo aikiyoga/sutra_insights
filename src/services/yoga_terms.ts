@@ -7,6 +7,7 @@ interface Reference {
 
 interface Terminology {
     term: string;
+    term_jp: string;
     refs: Reference[];
     definition: string;
     definition_jp: string;
