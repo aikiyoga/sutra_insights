@@ -17,6 +17,9 @@ export default function TerminologyPage() {
       <h1 className="text-2xl font-bold mb-4">
         {language === 'jp' ? 'ヨーガ用語集' : 'Yoga Sutra Terminology'}
       </h1>
+      <p className="mb-4 text-md text-gray-500 dark:text-gray-400">
+        {language === 'jp' ? 'この用語集は、ヨーガの基本的な用語を網羅しています。' : 'This terminology page includes the basic terms used in yoga.'}
+      </p>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
         {terms.map((term) => (
           <div
@@ -31,6 +34,9 @@ export default function TerminologyPage() {
           </div>
         ))}
       </div>
+      <p className="mt-4 text-md text-gray-500 dark:text-gray-400">
+        {language === 'jp' ? '不備や誤りを見つけたら、ぜひご連絡ください。' : 'Please let me knonw if you find any errors or have any suggestions.'}
+      </p>
     </div>
   );
 }

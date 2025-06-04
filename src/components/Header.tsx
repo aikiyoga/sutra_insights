@@ -54,7 +54,7 @@ export default function Header() {
           <button
             onClick={toggleTheme}
             className="p-2 rounded-full"
-            style={{ backgroundColor: 'var(--button)' }}
+            style={{ backgroundColor: 'var(--button)', visibility: 'hidden' }}
             aria-label={`Switch to ${theme === 'light' ? 'dark' : 'light'} mode`}
           >
             {theme === 'light' ? '🌙' : '☀️'}

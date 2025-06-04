@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import { YogaSutra } from '@/services/yoga_sutras';
 import { useTheme } from '@/context/ThemeContext';
+import ReactMarkdown from 'react-markdown';
 
 export default function SutraCard({ sutra }: { sutra: YogaSutra }) {
   const { language } = useTheme();
@@ -43,15 +44,20 @@ export default function SutraCard({ sutra }: { sutra: YogaSutra }) {
         </div>
           
           <div style={{ color: 'var(--card-fg)' }}>
-            <p>{language === 'en' ? sutra.translation : sutra.translation_jp}</p>
+            <ReactMarkdown>{language === 'en' ? sutra.translation : sutra.translation_jp}</ReactMarkdown>
           </div>
           
+          {!showInsights && (
+            <p className="text-sm text-gray-400 dark:text-gray-400 mt-2">
+              {language === 'en' ? 'Click to read insights...' : 'クリックして洞察を読む...'}
+            </p>
+          )}
           {showInsights && (
             ((language === 'en' && sutra.insights) || 
               (language === 'jp' && sutra.insights_jp)) && (
-              <div className="mt-4" style={{ color: 'var(--card-fg)' }}>
+              <div className="mt-4 bg-gray-100 dark:bg-gray-800 p-4 rounded-lg" style={{ color: 'var(--card-fg)' }}>
                 <h4 className="font-bold mb-1">{language === 'en' ? 'Insights' : '洞察'}</h4>
-                <p>{language === 'en' ? sutra.insights : sutra.insights_jp}</p>
+                <ReactMarkdown>{language === 'en' ? sutra.insights : sutra.insights_jp}</ReactMarkdown>
               </div>
             )
           )}

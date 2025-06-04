@@ -22,7 +22,7 @@ export default function ChapterList({ chapters }: { chapters: Chapter[] }) {
           key={chapter.id} 
           href={`/chapter/${chapter.id}`}
           className="block p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow"
-          style={{ backgroundColor: 'var(--button)', color: 'var(--background)' }}
+          style={{ backgroundColor: 'var(--card-bg)', color: 'var(--card-fg)' }}
         >
           <h2 className="text-xl font-bold mb-2">{chapterTitle(chapter)}</h2>
           <p>{chapterDescription(chapter)}</p>

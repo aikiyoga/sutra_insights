@@ -12,8 +12,8 @@ export interface YogaSutra {
   importance: number; // Subjective importance out of 10
   translation: string; // English translation
   translation_jp: string; // Japanese translation
-  insights?: string; // Philosophical insights in English
-  insights_jp?: string; // Philosophical insights in Japanese
+  insights: string; // Philosophical insights in English
+  insights_jp: string; // Philosophical insights in Japanese
 }
 
 export interface Chapter {
@@ -22,6 +22,10 @@ export interface Chapter {
   title_jp: string;
   description: string;
   description_jp: string;
+  summary: string;
+  summary_jp: string;
+  deep_dive: string;
+  deep_dive_jp: string;
 }
 
 const sutrasArray = [

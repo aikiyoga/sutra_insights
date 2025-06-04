@@ -43,7 +43,7 @@ export default function TermDetailPage() {
         >
         {language === 'jp' ? '＜一覧へ戻る' : '< Back to List'}
       </Link>
-      <div className="block p-4 rounded-lg shadow-xl"
+      <div className="block p-4 rounded-lg text-[var(--card-fg)] shadow-xl bg-gray-100 dark:bg-gray-800"
       >
       <h1 className="text-2xl font-bold mb-2">{entry.term}</h1>
       <p className="mb-2 text-lg">
