@@ -5,6 +5,7 @@ import { Chapter, YogaSutra } from '@/services/yoga_sutras';
 import SutraList from '@/components/SutraList';
 import { useTheme } from '@/context/ThemeContext';
 import ReactMarkdown from 'react-markdown';
+import Image from 'next/image';
 
 export default function ChapterContent({ chapterId, chapter, sutras }: { chapterId: number; chapter: Chapter; sutras: YogaSutra[] }) {
   const { language } = useTheme();
@@ -12,9 +13,29 @@ export default function ChapterContent({ chapterId, chapter, sutras }: { chapter
 
   return (
     <div className="max-w-4xl mx-auto">
-      <h1 className="text-3xl font-bold mb-2 text-center">
+      
+      <h1 className="mb-4 flex items-center justify-center">
+        <Image
+          src="/term_left.png"
+          alt="Left scroll"
+          width={48}
+          height={48}
+          className="inline-block w-12 h-12 mx-2"
+          priority
+        />
+        <span className={`${language === 'en' ? 'title' : 'title_jp'} text-3xl font-bold text-center`}>
         {language === 'en' ? `Chapter ${chapterId}: ${chapter?.title}`: `第${chapterId}章: ${chapter?.title_jp}`}
+        </span>
+        <Image
+          src="/term_right.png"
+          alt="Right scroll"
+          width={48}
+          height={48}
+          className="inline-block w-12 h-12 mx-2"
+          priority
+        />
       </h1>
+
       <div className='mb-4 text-[var(--card-fg)] text-justify whitespace-pre-line break-words text-lg bg-gray-100 dark:bg-gray-800 p-4 rounded-lg shadow-md hover:shadow-lg transition-shadow cursor-pointer'
       onClick={() => setShowDeepDive(!showDeepDive)}>
         {!showDeepDive && (

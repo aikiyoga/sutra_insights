@@ -11,7 +11,7 @@ export default function Header() {
     <header className="py-2 px-6 shadow-md">
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center gap-6">
-          <Link href="/" className="flex items-center text-2xl font-bold gap-2">
+          <Link href="/" className="title flex items-center text-2xl font-bold gap-2">
             <Image
               src={'/scroll_icon.png'}
               alt="Scroll Icon"

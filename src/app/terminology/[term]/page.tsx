@@ -39,13 +39,16 @@ export default function TermDetailPage() {
 
   return (
     <div className="container mx-auto p-4">
-      <Link href="/terminology" className="text-blue-600 hover:underline inline-block mb-4"
+      <Link href="/terminology" className="text-blue-600 hover:underline inline-block mb-4 cursor-pointer"
         >
         {language === 'jp' ? '＜一覧へ戻る' : '< Back to List'}
       </Link>
-      <div className="block p-4 rounded-lg text-[var(--card-fg)] shadow-xl bg-gray-100 dark:bg-gray-800"
-      >
-      <h1 className="text-2xl font-bold mb-2">{entry.term}</h1>
+      <div className="block p-4 rounded-lg text-[var(--card-fg)] shadow-xl bg-gray-100 dark:bg-gray-800 max-w-4xl mx-auto">
+      <h1 className={`${language === 'en' ? 'title' : 'title_jp'} text-3xl font-bold mb-2 flex items-center justify-center gap-4`}>
+        <img src="/wave.png" alt="wave" className="h-8 w-8 inline-block" />
+        <span>{language === 'jp' ? entry.term_jp : entry.term}</span>
+        <img src="/wave.png" alt="wave" className="h-8 w-8 inline-block" />
+      </h1>
       <p className="mb-2 text-lg">
         <strong>{language === 'jp' ? '定義：' : 'Definition: '}</strong>
         {language === 'jp' ? entry.definition_jp : entry.definition}

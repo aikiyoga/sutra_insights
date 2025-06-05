@@ -34,3 +34,15 @@ body {
   --foreground: #401A06;
   --button: #008080E6;
 }
+
+/* Krishna part */
+.title {
+  font-family: 'Philosopher', serif;
+  font-weight: 700;
+}
+
+
+.title_jp {
+  font-family: 'Kaisei Tokumin', serif;
+  font-weight: 700;
+}
