@@ -4,6 +4,16 @@ import { yoga_sutras_vibhuti_pada } from "./sutra_ch03";
 import { yoga_sutras_kaivalya_pada } from "./sutra_ch04";
 import { chapters } from "./sutra_chapter_titles";
 
+export interface Term {
+  term: string;
+  ref?: string;
+}
+
+export interface NoteRow {
+  key: Term;
+  note: string;
+}
+
 // Define a type for the verse structure (optional, but good practice)
 export interface YogaSutra {
   chapter: number;
@@ -14,6 +24,8 @@ export interface YogaSutra {
   translation_jp: string; // Japanese translation
   insights: string; // Philosophical insights in English
   insights_jp: string; // Philosophical insights in Japanese
+  notes?: NoteRow[]; // Optional array of notes
+  notes_jp?: NoteRow[]; // Optional array of notes in Japanese
 }
 
 export interface Chapter {

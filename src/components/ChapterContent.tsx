@@ -6,10 +6,16 @@ import SutraList from '@/components/SutraList';
 import { useTheme } from '@/context/ThemeContext';
 import ReactMarkdown from 'react-markdown';
 import Image from 'next/image';
+import { useSearchParams } from 'next/navigation';
 
 export default function ChapterContent({ chapterId, chapter, sutras }: { chapterId: number; chapter: Chapter; sutras: YogaSutra[] }) {
   const { language } = useTheme();
   const [showDeepDive, setShowDeepDive] = useState(false);
+
+    
+  const searchParams = useSearchParams();
+  const verseParam = searchParams.get('verse');
+  const verseNum = (verseParam && typeof verseParam === 'string') ? parseInt(verseParam, 10) : 0;
 
   return (
     <div className="max-w-4xl mx-auto">
@@ -46,7 +52,7 @@ export default function ChapterContent({ chapterId, chapter, sutras }: { chapter
           )}
         {showDeepDive && <ReactMarkdown>{language === 'en' ? chapter?.deep_dive : chapter?.deep_dive_jp}</ReactMarkdown>}
       </div>
-      <SutraList sutras={sutras} />
+      <SutraList sutras={sutras} showWho={verseNum} />
     </div>
   );
 }

@@ -125,6 +125,31 @@ export const yoga_sutra_terms = {
         insights: "Alambana refers to the mental or physical support used as a focus in meditation, such as a mantra, the breath, or an image. The proper selection and use of an alambana is vital for deepening concentration and leading the mind toward stillness.",
         insights_jp: "アランバナは、瞑想において心を集中させるために用いる支持対象です。マントラ、呼吸、イメージなどが該当します。適切なアランバナの選択と活用は、集中力を深め、心を静めるために重要です。"
     },
+    Ananda: {
+        refs: [
+            {
+                chapter: 2,
+                verse: 14
+            },
+            {
+                chapter: 2,
+                verse: 15
+            },
+            {
+                chapter: 2,
+                verse: 16
+            },
+            {
+                chapter: 2,
+                verse: 17
+            }
+        ],
+        term_jp: "アーナンダ",
+        definition: "Bliss or supreme happiness; the joy that arises from the realization of one's true nature.",
+        definition_jp: "快楽。真の自己を悟ることから生じる愉しみ。",
+        insights: "Ananda is the bliss or supreme happiness that arises from the realization of one's true nature. It is the joy that comes from being fully present and deeply connected to the moment, without the overlay of ego or desire.",
+        insights_jp: "アーナンダは、真の自己を悟ることから生じる bliss または最上の幸福です。それは、自我や欲求の上に重なっていない、完全に当該の瞬間に深く接続していることからの愉しみです。"
+    },
     Antaraya: {
         refs: [
             {
@@ -183,6 +208,19 @@ export const yoga_sutra_terms = {
         definition_jp: "無所有。貪欲や執着を手放し、所有にこだわらないこと。",
         insights: "Aparigraha is non-possessiveness, the practice of letting go of attachment to possessions, outcomes, and even ideas. It leads to inner freedom and a sense of abundance that is not dependent on accumulation.",
         insights_jp: "アパリグラハは、物・結果・考えに対する執着を手放す「無所有」の実践です。これにより、蓄積に頼らない内なる自由と豊かさが育まれます。"
+    },
+    Asamprajnata_Samadhi: {
+        refs: [
+            {
+                chapter: 2,
+                verse: 1
+            }
+        ],
+        term_jp: "アサンプラジュニャータ・サマーディ",
+        definition: "The meditative state of non-attachment; the state of being fully present and aware, without any sense of self or other.",
+        definition_jp: "非明晰な吸収。主体や客体の意識のない、完全に当該の瞬間に接している状態。",
+        insights: "Asamprajnata Samadhi is the highest state of meditation, where the mind transcends all thought and awareness. It is a state of pure consciousness, free from the distractions of the ego and the world.",
+        insights_jp: "アサンプラジュニャータ・サマーディは、最も高い瞑想の状態です。ここでは、心はすべての思考と意識を超越し、純粋な意識の状態に達します。これは自我や世界の妨げから開放された状態です。"
     },
     Asana: {
         refs: [
@@ -682,6 +720,23 @@ export const yoga_sutra_terms = {
         definition_jp: "瞑想。対象への絶え間ない意識の流れ。",
         insights: "Dhyana is uninterrupted flow of awareness towards the object of meditation, leading to deeper states of absorption and self-realization.",
         insights_jp: "ディヤーナは、瞑想対象への絶え間ない意識の流れであり、より深い吸収と自己実現へと導きます。"
+    },
+    Drastr: {
+        refs: [
+            {
+                chapter: 1,
+                verse: 3
+            },
+            {
+                chapter: 1,
+                verse: 4
+            }
+        ],
+        term_jp: "ドラシュトリ",
+        definition: "The seer; the pure consciousness that witnesses the mind and its modifications.",
+        definition_jp: "見る者。心とその作用を witnessing する純粋意識。",
+        insights: "Drastr is the seer, the pure consciousness that witnesses the mind and its modifications. In yoga, the goal is to realize the seer beyond the modifications of the mind.",
+        insights_jp: "ドラシュトリは、見る者、心とその作用を witnessing する純粋意識です。ヨーガでは、心の作用を越えた見る者の実現が目標です。"
     },
     Duhkha: {
         refs: [
@@ -1787,6 +1842,19 @@ export const yoga_sutra_terms = {
         insights: "Samyoga refers to the state of union or communion that is experienced when the individual consciousness merges with the universal consciousness. In yoga, it is the practice of cultivating a sense of oneness and interconnectedness with all beings.",
         insights_jp: "サムヨーガは、個人の意識が普遍的な意識と融合するときに経験される結合や共鳴を指します。ヨーガでは、すべての存在と一体感と相互接続性を育てる実践です。"
     },
+    Sarupya: {
+        refs: [
+            {
+                chapter: 1,
+                verse: 4
+            }
+        ],
+        term_jp: "サルーパヤ",
+        definition: "Identification; sameness.",
+        definition_jp: "同一視、同一性。",
+        insights: "Sarupya is the state of identification or sameness, where the seer (draṣṭṛ) becomes conflated with the vṛttis. In yoga, it is the mistaken identification of the Self with the mind's modifications, leading to ignorance and bondage.",
+        insights_jp: "サルーパヤは、見る者（ドラシュトリ）が心の作用と同一視する状態です。ヨーガでは、これは自己（本質）と心の作用を間違えて同一視する誤った認識であり、無明と束縛の根源です。"
+    },
     Sattva: {
         refs: [
             {
@@ -2187,6 +2255,23 @@ export const yoga_sutra_terms = {
         insights: "Svapna is the state of dreaming, where the mind creates imaginary experiences. In yoga, understanding the nature of svapna helps in realizing the distinction between the waking state and the dream state, ultimately leading to a deeper understanding of reality.",
         insights_jp: "スヴァプナは、心が幻想的な経験を創造する夢の状態です。ヨーガでは、スヴァプナの本質を理解することで、清醒の状態と夢の状態の違いを垣間見ることができ、最終的には実際の理解に至ります。"
     },
+    Svarupa: {
+        refs: [
+            {
+                chapter: 1,
+                verse: 3
+            },
+            {
+                chapter: 1,
+                verse: 4
+            }
+        ],
+        term_jp: "スヴァルーパ",
+        definition: "Own true nature; essential nature.",
+        definition_jp: "自己本来の姿、本質。",
+        insights: "Svarupa is the essential nature or inherent qualities of something. In yoga, it refers to the true nature of the Self, which is realized when the mind’s fluctuations are stilled.",
+        insights_jp: "スヴァルーパは、何かの本質や内在的な特徴です。ヨーガでは、これは心の作用が止まったときに実現する自己の本来の姿を指します。"
+    },
     Tamas: {
         refs: [
             {
@@ -2295,6 +2380,19 @@ export const yoga_sutra_terms = {
         insights: "Vasikara refers to supreme mastery over the senses and desires, marked by effortless non-attachment. In yoga, vasikara-vairagya is the highest stage of detachment, leading directly to profound peace and liberation.",
         insights_jp: "ヴァーシカラは、感覚や欲望を完全に制御した最高の非執着状態です。ヨーガでは、ヴァーシカラ・ヴァイラーギャが非執着の最上段階であり、深い平安と解脱へと直結します。"
     },
+    Vicara: {
+        refs: [
+            {
+                chapter: 1,
+                verse: 17
+            }
+        ],
+        term_jp: "ヴィカラ",
+        definition: "Insight; discrimination.",
+        definition_jp: "洞察力。",
+        insights: "Vicara is the discriminative wisdom that helps in distinguishing between reality and imagination. It is the ability to perceive the true nature of things and to overcome ignorance.",
+        insights_jp: "ヴィカラは、実在と想像を区別する洞察力です。これは事物の本当の本質を認識し、無知を克服する能力です。"
+    },
     Vijnana: {
         refs: [
             {
@@ -2321,6 +2419,19 @@ export const yoga_sutra_terms = {
         insights: "Vikalpa refers to the mind's capacity to create thoughts, ideas, and images based purely on words or concepts, even when there is no tangible, existing reality corresponding to them. In yoga, cultivating discernment helps in distinguishing between reality and imagination.",
         insights_jp: "ヴィカルパは、言葉や概念に基づいて純粋に思考、アイデア、イメージを創造する心の能力を指します。このとき、対応する具体的な実在は存在しない場合もあります。ヨーガでは、洞察力を養うことで、実在と想像を区別することができるようになります。"
     },
+    Vipaka: {
+        refs: [
+            {
+                chapter: 1,
+                verse: 23
+            }
+        ],
+        term_jp: "ヴィパーカ",
+        definition: "Result; fruition.",
+        definition_jp: "果報、果実。",
+        insights: "Vipaka refers to the fruits or results of yogic practice. It is the reward or bliss that comes from the practice of yoga.",
+        insights_jp: "ヴィパーカは、ヨーガの修行の果報や結果を指します。これはヨーガの修行から得られる報酬や幸福です。"
+    },
     Viparyaya: {
         refs: [
             {
@@ -2346,6 +2457,19 @@ export const yoga_sutra_terms = {
         definition_jp: "活力や精力。",
         insights: "Virya is the dynamic energy and vigor that fuels the yogic practice. It is the courage and perseverance needed to overcome obstacles and stay committed to the path of yoga.",
         insights_jp: "ヴィリヤは、ヨーガの修行を支える動的なエネルギーと活力です。これは障害を克服し、ヨーガの道に忠実にこなす勇気と毅力です。"
+    },
+    Vitarka: {
+        refs: [
+            {
+                chapter: 1,
+                verse: 17
+            }
+        ],
+        term_jp: "ヴィタルカ",
+        definition: "Gross reasoning; analytical thought.",
+        definition_jp: "粗い推理や分析的な思考。",
+        insights: "Vitarka refers to gross reasoning, which involves deliberate and analytical thought. In yoga, it is the initial stage of contemplation, where the mind engages with a gross object of focus.",
+        insights_jp: "ヴィタルカは、粗い推理を指します。これは有意識で分析的な思考を含みます。ヨーガでは、これは冥想の初期段階であり、心が粗い焦点の対象と接続する段階です。"
     },
     Viveka: {
         refs: [
