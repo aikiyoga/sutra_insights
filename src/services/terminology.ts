@@ -1624,6 +1624,27 @@ export const yoga_sutra_terms = {
         insights: "Sabijah refers to “seeded” samadhi—a deep state of meditation in which subtle impressions (seeds) still remain in the mind. While profound, it is not ultimate absorption; further practice leads to nirbija (seedless) samadhi, where even these seeds dissolve.",
         insights_jp: "サビジャは「有種」のサマーディを指し、心に微細な印象（種子）がまだ残っている深い瞑想状態です。究極の吸収状態ではなく、更なる修行により、これらの種も消滅するニールビージャ（無種）サマーディに至ります。"
     },
+    Sabija_Samadhi: {
+        refs: [
+            {
+                chapter: 1,
+                verse: 17
+            },
+            {
+                chapter: 1,
+                verse: 46
+            },
+            {
+                chapter: 1,
+                verse: 51
+            }
+        ],
+        term_jp: "サビジャ・サマーディ",
+        definition: "With seed; with residue.",
+        definition_jp: "種や残留物がある状態。",
+        insights: "Sabija Samadhi is a deep state of meditation in which subtle impressions (seeds) still remain in the mind. While profound, it is not ultimate absorption; further practice leads to nirbija (seedless) samadhi, where even these seeds dissolve.",
+        insights_jp: "サビジャ・サマーディは、心に微細な印象（種子）がまだ残っている深い瞑想状態です。究極の吸収状態ではなく、更なる修行により、これらの種も消滅するニールビージャ（無種）サマーディに至ります。"
+    },
     Samadhi: {
         refs: [
             {

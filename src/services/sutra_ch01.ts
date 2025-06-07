@@ -154,7 +154,43 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "There are five kinds of mental modifications, which are either painful or painless.",
     translation_jp: "心の作用には五種類あり、それらは煩悩を伴うものと伴わないものがある。",
     insights: "Patañjali now classifies all mental modifications into five categories, each of which can be either afflicted (kliṣṭa) or non-afflicted (akliṣṭa). This taxonomy is crucial for the yogin to discern which vṛttis support liberation and which perpetuate suffering.",
-    insights_jp: "パタンジャリは、すべての心の作用を五つに分類し、それぞれが煩悩を伴う（クリシュタ）ものと伴わない（アクリシュタ）ものに分かれると説きます。この分類は、解脱に資するヴリッティと苦を増すヴリッティを見分けるために、ヨーギーにとって極めて重要です。"
+    insights_jp: "パタンジャリは、すべての心の作用を五つに分類し、それぞれが煩悩を伴う（クリシュタ）ものと伴わない（アクリシュタ）ものに分かれると説きます。この分類は、解脱に資するヴリッティと苦を増すヴリッティを見分けるために、ヨーギーにとって極めて重要です。",
+    notes: [
+      {
+        key: {term: "vṛttayaḥ (modifications)", ref: "Vrtti"},
+        note: "Five types of vṛtti: right knowledge, wrong knowledge, verbal delusion, sleep, memory"
+      },
+      {
+        key: {term: "pañcatayyaḥ (five-fold)"},
+        note: "Five-fold, of five kinds"
+      },
+      {
+        key: {term: "kliṣṭa (afflicted)"},
+        note: "Afflicted, painful, causing suffering"
+      },
+      {
+        key: {term: "akliṣṭa (non-afflicted)"},
+        note: "Non-afflicted, not painful, not causing suffering"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ヴリッティ", ref: "Vrtti"},
+        note: "正知、誤知、言葉による幻想、睡眠、記憶"
+      },
+      {
+        key: {term: "パンカタヤヤ"},
+        note: "五つの種類"
+      },
+      {
+        key: {term: "クリシュタ"},
+        note: "煩悩を伴う、苦しみをもたらす"
+      },
+      {
+        key: {term: "アクリシュタ"},
+        note: "煩悩を伴わない、苦しみをもたらさない"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -718,7 +754,19 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "In Him, the seed of **omniscience** is unsurpassed.",
     translation_jp: "彼において、**全知**の種子は無上である。",
     insights: "Within **Īśvara** abides the seed of all-knowingness (**sarvajñatva**), unsurpassed and inexhaustible. Contemplation of this **omniscience** inspires the yogin to trust in the guidance of the Divine.",
-    insights_jp: "**イーシュヴァラ**の内には、無上で尽きることのない全知の種子（**サルヴァジュニャトヴァ**）が宿っています。この**全知性**を観想することで、ヨーギーは神聖な導きへの信頼を深めます。"
+    insights_jp: "**イーシュヴァラ**の内には、無上で尽きることのない全知の種子（**サルヴァジュニャトヴァ**）が宿っています。この**全知性**を観想することで、ヨーギーは神聖な導きへの信頼を深めます。",
+    notes: [
+      {
+        key: {term: "sarvajñatva (omniscience)"},
+        note: "All-knowingness, omniscience"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "サルヴァジュニャトヴァ"},
+        note: "全知性、無上"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -728,7 +776,19 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "He is the **teacher** of even the ancient teachers, being not limited by time.",
     translation_jp: "彼は、時間によって限定されないため、古代の師たちの**師**でもある。",
     insights: "**Īśvara** is the primordial **guru**, the source of all spiritual transmission, unbound by time or succession. All authentic teachings ultimately flow from this eternal wellspring.",
-    insights_jp: "**イーシュヴァラ**は、時を超越した根源的な**師**（**グル**）であり、すべての霊的伝承の源泉です。真の教えは、究極的にはこの永遠の泉から流れ出ます。"
+    insights_jp: "**イーシュヴァラ**は、時を超越した根源的な**師**（**グル**）であり、すべての霊的伝承の源泉です。真の教えは、究極的にはこの永遠の泉から流れ出ます。",
+    notes: [
+      {
+        key: {term: "guru (teacher)"},
+        note: "Teacher, guide, mentor"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "グル"},
+        note: "師、導き、指導者"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -760,7 +820,27 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "Its **repetition** and **meditation** on its meaning should be done.",
     translation_jp: "その（オームの）**読誦**と、その意味の**瞑想**（を行うべきである）。",
     insights: "The **practice** of **japa** (repetition) and deep **contemplation** on the meaning of **Om** aligns the mind with its source. This method purifies the heart and hastens spiritual ascent.",
-    insights_jp: "**オーム**の誦唱（**ジャパ**）と意味の深い**観想**によって、心はその源と調和します。この方法は心を浄化し、霊的成長を加速させます。"
+    insights_jp: "**オーム**の誦唱（**ジャパ**）と意味の深い**観想**によって、心はその源と調和します。この方法は心を浄化し、霊的成長を加速させます。",
+    notes: [
+      {
+        key: {term: "japa (repetition)"},
+        note: "Repetition, chanting"
+      },
+      {
+        key: {term: "bhāvana (contemplation)"},
+        note: "Contemplation, meditation"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ジャパ"},
+        note: "誦唱、繰り返し"
+      },
+      {
+        key: {term: "バーナーナ"},
+        note: "観想、瞑想"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -792,7 +872,19 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "**Disease**, **mental laziness**, **doubt**, **carelessness**, **sloth**, **sensuality**, **erroneous perception**, **failure to attain firm ground**, and **instability** are the distractions of the mind; they are the **obstacles**.",
     translation_jp: "**病気**、**無気力**、**疑い**、**怠慢**、**ものぐさ**、**禁欲の欠如**、**誤った見解**、**安定した境地に至れないこと**、**不安定さ**、これらは心の混乱であり、**障害**である。",
     insights: "Patañjali enumerates the **obstacles** (**antarāyas**) that disrupt the path: **disease**, **apathy**, **doubt**, **heedlessness**, **laziness**, **sensuality**, **error**, **lack of progress**, and **instability**. Recognizing these as impediments is the first step to their transcendence.",
-    insights_jp: "パタンジャリは、修行を妨げる**障害**（**アンタラーヤ**）として、**病気**、**無気力**、**疑念**、**不注意**、**怠惰**、**感覚的追求**、**誤解**、**進展の欠如**、**不安定**を挙げます。これらを障害として認識することが、超克への第一歩です。"
+    insights_jp: "パタンジャリは、修行を妨げる**障害**（**アンタラーヤ**）として、**病気**、**無気力**、**疑念**、**不注意**、**怠惰**、**感覚的追求**、**誤解**、**進展の欠如**、**不安定**を挙げます。これらを障害として認識することが、超克への第一歩です。",
+    notes: [
+      {
+        key: {term: "antarāya (obstacle)", ref: "Antaraya"},
+        note: "Obstacle, impediment\\disease, apathy, doubt, heedlessness, laziness, sensuality, error, lack of progress, instability"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "アンタラーヤ", ref: "Antaraya"},
+        note: "障害、妨げ\\病気、無気力、疑念、不注意、怠惰、感覚的追求、誤解、進展の欠如、不安定"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -802,7 +894,51 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "**Sorrow**, **despair**, **unsteadiness of the body**, and **irregular breathing** accompany these distractions.",
     translation_jp: "**苦痛**、**憂鬱**、**身体の震え**、**不規則な呼吸**は、これらの混乱に伴って現れる。",
     insights: "These obstacles manifest as **suffering**, **depression**, **bodily restlessness**, and **disturbed breathing**. The yogin must learn to recognize these signs, addressing both the root causes and their symptomatic expressions.",
-    insights_jp: "これらの障害は、**苦悩**、**憂鬱**、**身体の不安**、**呼吸の乱れ**として現れます。ヨーギーは原因と症状の両面を見極め、適切に対処する知恵を養う必要があります。"
+    insights_jp: "これらの障害は、**苦悩**、**憂鬱**、**身体の不安**、**呼吸の乱れ**として現れます。ヨーギーは原因と症状の両面を見極め、適切に対処する知恵を養う必要があります。",
+    notes: [
+      {
+        key: {term: "duḥkha (sorrow)", ref: "Duhkha"},
+        note: "Sorrow, suffering, pain"
+      },
+      {
+        key: {term: "daurmanasya (despair)"},
+        note: "Despair, depression, mental distress"
+      },
+      {
+        key: {term: "aṅgamejayatva (unsteadiness of the body)"},
+        note: "Unsteadiness of the body, trembling"
+      },
+      {
+        key: {term: "śvāsa (irregular breathing)"},
+        note: "Irregular, disturbed, or hard inhalation"
+      },
+      {
+        key: {term: "praśvāsa (irregular breathing)"},
+        note: "Irregular, disturbed, or hard exhalation"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ドゥッカ", ref: "Duhkha"},
+        note: "苦悩、苦痛、辛抱"
+      },
+      {
+        key: {term: "ダウルマナーサ"},
+        note: "憂鬱、心の苦悩、心の辛抱"
+      },
+      {
+        key: {term: "アンガメジャヤトバ"},
+        note: "身体の不安、震え、揺れ"
+      },
+      {
+        key: {term: "スヴァーサ"},
+        note: "不規則な吸入"
+      },
+      {
+        key: {term: "プラシュヴァーサ"},
+        note: "不規則な呼出"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -812,7 +948,19 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "For their prevention, the practice of **concentration** on a single principle should be made.",
     translation_jp: "それらを防ぐために、一つの対象への**集中**を修習すべきである。",
     insights: "The antidote to distraction is sustained concentration (**ekatattvābhyāsa**) on one principle or object. Such focused practice gathers the mind’s scattered energies, restoring clarity and equanimity.",
-    insights_jp: "心の混乱を防ぐには、一つの対象や原理への**集中修習**（**エカタットヴァアビャーサ**）が最良の対策です。この集中によって、散乱した心の力が集められ、明晰さと平静が回復します。"
+    insights_jp: "心の混乱を防ぐには、一つの対象や原理への**集中修習**（**エカタットヴァアビャーサ**）が最良の対策です。この集中によって、散乱した心の力が集められ、明晰さと平静が回復します。",
+    notes: [
+      {
+        key: {term: "ekatattvābhyāsa (concentration on a single principle)", ref: "Ekatattva Abhyasa"},
+        note: "Concentration on a single principle, sustained practice"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "エカタットヴァアビャーサ", ref: "Ekatattva Abhyasa"},
+        note: "一つの対象や原理への集中修習"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -822,7 +970,43 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "The mind becomes **serene** by the cultivation of feelings of **amity**, **compassion**, **goodwill**, and **indifference** respectively towards the happy, the miserable, the virtuous, and the wicked.",
     translation_jp: "幸福な者への**友愛**、苦しむ者への**慈悲**、徳のある者への**喜び**、不徳な者への**平静さ**を培うことによって、心は**清澄**になる。",
     insights: "Cultivating **maitri** (friendliness), **karuṇā** (compassion), **muditā** (sympathetic joy), and **upekṣā** (equanimity) toward all beings purifies the heart and pacifies the mind. This classical teaching harmonizes the yogin with the world, dissolving internal and external conflict.",
-    insights_jp: "幸福な者へは**友愛**（マイトリー）、苦しむ者へは**慈悲**（カルナー）、徳ある者へは**喜悦**（ムディター）、不徳な者へは**平静**（ウペクシャー）を育むことで、心が清澄になります。この伝統的教えは、内外の葛藤を解消し、ヨーギーの心を世界と調和させます。"
+    insights_jp: "幸福な者へは**友愛**（マイトリー）、苦しむ者へは**慈悲**（カルナー）、徳ある者へは**喜悦**（ムディター）、不徳な者へは**平静**（ウペクシャー）を育むことで、心が清澄になります。この伝統的教えは、内外の葛藤を解消し、ヨーギーの心を世界と調和させます。",
+    notes: [
+      {
+        key: {term: "maitrī (friendliness)"},
+        note: "Friendliness, amity, benevolence"
+      },
+      {
+        key: {term: "karuṇā (compassion)"},
+        note: "Compassion, sympathy, empathy"
+      },
+      {
+        key: {term: "muditā (goodwill)"},
+        note: "Goodwill, sympathetic joy, delight in others' virtue/happiness"
+      },
+      {
+        key: {term: "upekṣā (indifference)"},
+        note: "Indifference, equanimity, detached impartiality"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "マイトリー"},
+        note: "友愛、親睦、善意"
+      },
+      {
+        key: {term: "カルナー"},
+        note: "慈悲、同情、共感"
+      },
+      {
+        key: {term: "ムディター"},
+        note: "喜悦、徳の喜び、幸福への共感"
+      },
+      {
+        key: {term: "ウペクシャー"},
+        note: "平静、 impartiality、差別なしの公平さ"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -832,7 +1016,19 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "Or, **serenity** is attained by the **expulsion** and **retention** of breath.",
     translation_jp: "あるいは、**プラーナ**（生命エネルギー）の呼出と保持によって（心の**平静**は得られる）。",
     insights: "**Prāṇāyāma** (regulation of breath) is offered as a direct method to calm the mind. By skillfully working with the **life-force** through breath, the yogin harmonizes body and mind, preparing for deeper meditation.",
-    insights_jp: "**プラーナーヤーマ**（呼吸法）は、心の静寂を得るための直接的な手段として示されます。呼吸を通じて**生命エネルギー**を巧みに調整することで、身体と心が調和し、深い瞑想への準備が整います。"
+    insights_jp: "**プラーナーヤーマ**（呼吸法）は、心の静寂を得るための直接的な手段として示されます。呼吸を通じて**生命エネルギー**を巧みに調整することで、身体と心が調和し、深い瞑想への準備が整います。",
+    notes: [
+      {
+        key: {term: "prāṇāyāma (breath regulation)", ref: "Pranayama"},
+        note: "Breath regulation, pranayama"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "プラーナーヤーマ", ref: "Pranayama"},
+        note: "呼吸法、呼吸の調整"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -842,7 +1038,27 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "Or, the development of higher **sense perception** relating to objects can cause mental steadiness.",
     translation_jp: "あるいは、対象に関する**超感覚的な認識**が生じると、心は安定する。",
     insights: "Heightened awareness of subtle **sense perceptions** (**viṣayavatī pravṛtti**) can be harnessed to steady the mind. Such experiences, though extraordinary, are to be used as supports, not as ends in themselves.",
-    insights_jp: "**超感覚的な対象認識**（**ヴィシャヤヴァティ・プラヴリッティ**）が生じると、それを活用して心を安定させることができます。こうした体験は特異であっても、目的ではなく心の支えとして用いるべきです。"
+    insights_jp: "**超感覚的な対象認識**（**ヴィシャヤヴァティ・プラヴリッティ**）が生じると、それを活用して心を安定させることができます。こうした体験は特異であっても、目的ではなく心の支えとして用いるべきです。",
+    notes: [
+      {
+        key: {term: "viṣayavatī (higher sense perception)"},
+        note: "Higher sense perception, subtle sensory experience"
+      },
+      {
+        key: {term: "pravṛtti (development)"},
+        note: "Development, evolution, unfoldment"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ヴィシャヤヴァティ"},
+        note: "超感覚的な対象認識"
+      },
+      {
+        key: {term: "プラヴリッティ"},
+        note: "発達、進化、発展"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -852,7 +1068,19 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "Or, by meditating on the **sorrowless, luminous light** within.",
     translation_jp: "あるいは、**悲しみのない、光り輝くもの**（に瞑想することによって）。",
     insights: "Meditation on the **inner, sorrowless light** (**jyotiṣmatī**) reveals the innate purity and luminosity of consciousness. This practice dispels grief and brings profound tranquility.",
-    insights_jp: "**悲しみのない内なる光**（**ジョーティシュマティ**）を観想することで、意識の本来の純粋さと光明が顕現します。この修習は悲しみを消し、深い静けさをもたらします。"
+    insights_jp: "**悲しみのない内なる光**（**ジョーティシュマティ**）を観想することで、意識の本来の純粋さと光明が顕現します。この修習は悲しみを消し、深い静けさをもたらします。",
+    notes: [
+      {
+        key: {term: "jyotiṣmatī (luminous light)"},
+        note: "Luminous light, inner radiance"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ジョーティシュマティ"},
+        note: "光り輝くもの、内なる光"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -862,7 +1090,19 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "Or, by meditating on a mind that is **free from attachment** to sense objects.",
     translation_jp: "あるいは、**欲望を離れた**対象、またはそのような心（に瞑想することによって）。",
     insights: "Contemplating a mind wholly **free from attachment** (**vītarāga**) inspires the practitioner to cultivate the same detachment. This mental model supports the dissolution of craving and fosters equanimity.",
-    insights_jp: "完全に**欲望を離れた心**（**ヴィータラーガ**）を観想することで、修行者自身も同様の**離欲**を育てることができます。この心の模範は、渇望の消滅と平静の養成を支えます。"
+    insights_jp: "完全に**欲望を離れた心**（**ヴィータラーガ**）を観想することで、修行者自身も同様の**離欲**を育てることができます。この心の模範は、渇望の消滅と平静の養成を支えます。",
+    notes: [
+      {
+        key: {term: "vītarāga (free from attachment)"},
+        note: "Free from attachment, detachment"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ヴィータラーガ"},
+        note: "欲望を離れた、非執着の"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -872,7 +1112,19 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "Or, by meditating on the **knowledge that comes from dreams or sleep**.",
     translation_jp: "あるいは、夢や睡眠の知識を対象とすることによって。",
     insights: "**Insights arising from dreams or deep sleep** (**svapna-nidrā-jñāna**) can be objects of meditation, revealing subconscious patterns or glimpses of pure awareness. The yogin learns to integrate and transcend these experiences.",
-    insights_jp: "**夢や深い睡眠から生じる知識**（**スヴァプナ・ニドラー・ジュニャーナ**）を瞑想の対象とすることで、無意識の傾向や純粋意識の断片が明らかになります。ヨーギーはこれらの体験を統合し、超越する術を学びます。"
+    insights_jp: "**夢や深い睡眠から生じる知識**（**スヴァプナ・ニドラー・ジュニャーナ**）を瞑想の対象とすることで、無意識の傾向や純粋意識の断片が明らかになります。ヨーギーはこれらの体験を統合し、超越する術を学びます。",
+    notes: [
+      {
+        key: {term: "svapna-nidrā-jñāna (knowledge from dreams or sleep)"},
+        note: "Knowledge from dreams or sleep, subconscious insights"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "スヴァプナ・ニドラー・ジュニャーナ"},
+        note: "夢や深い睡眠から生じる知識、無意識の洞察"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -882,7 +1134,27 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "Or, by meditation on anything that appeals to one as good.",
     translation_jp: "あるいは、自分が良いと思うものへの瞑想によって。",
     insights: "Patañjali affirms the adaptability of the yogic path: meditation on any object that uplifts and steadies the mind is valid. The key is sincerity and the capacity of the object to evoke tranquility.",
-    insights_jp: "パタンジャリは、心を高め安定させるものであれば、どのような対象への瞑想も有効であると説きます。重要なのは誠実な心と、その対象が静寂を呼び起こす力を持つことです。"
+    insights_jp: "パタンジャリは、心を高め安定させるものであれば、どのような対象への瞑想も有効であると説きます。重要なのは誠実な心と、その対象が静寂を呼び起こす力を持つことです。",
+    notes: [
+      {
+        key: {term: "yathābhimata (agreeable)"},
+        note: "Agreeable, pleasing, desirable"
+      },
+      {
+        key: {term: "dhyāna (meditation)", ref: "Dhyana"},
+        note: "Meditation, contemplation"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ヤタアビヒマタ"},
+        note: "好ましい、pleasant, agreeable"
+      },
+      {
+        key: {term: "ディヤーナ", ref: "Dhyana"},
+        note: "瞑想、 contemplating"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -892,7 +1164,35 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "His mastery extends from the smallest atom to the infinitely great.",
     translation_jp: "原子から無限大に至るまで、彼の制御が及ぶ。",
     insights: "The mind, when mastered, is capable of comprehending the subtlest atom and the vastest expanse. This reflects the infinite potential of consciousness, mirroring the cosmic sovereignty of Īśvara.",
-    insights_jp: "制御された心は、最も微細な原子から最も巨大なものまでを把握できます。これは意識の無限の可能性であり、イーシュヴァラの宇宙的主権を映し出しています。"
+    insights_jp: "制御された心は、最も微細な原子から最も巨大なものまでを把握できます。これは意識の無限の可能性であり、イーシュヴァラの宇宙的主権を映し出しています。",
+    notes: [
+      {
+        key: {term: "paramāṇu (smallest atom)"},
+        note: "Smallest atom, infinitesimal"
+      },
+      {
+        key: {term: "paramamahattva (infinitely great)"},
+        note: "Infinitely great, utmost magnitude"
+      },
+      {
+        key: {term: "vaśīkāra (mastery)"},
+        note: "Mastery, control, command"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "パラマーナ"},
+        note: "最も微細な原子、無限小"
+      },
+      {
+        key: {term: "パラママハットヴァ"},
+        note: "無限大、究極の大きさ"
+      },
+      {
+        key: {term: "ヴァシーカラー"},
+        note: "支配、制御、命令"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -902,7 +1202,19 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "When the modifications of the mind have become weakened, the mind, like a transparent crystal, takes on the qualities of whatever object (the knower, the knowing, or the known) it rests upon; this is called **samāpatti** (engrossment).",
     translation_jp: "心の作用が弱まったとき、清浄な水晶のように、把握するもの、把握すること、把握されるもの、いずれに置かれてもそのものの色を帯びる状態を**サマーパッティ**（等引）という。",
     insights: "When vṛttis are attenuated, the mind becomes as clear as a flawless crystal, perfectly reflecting the object, the act of knowing, or the knower. This is **samāpatti**—total engrossment—where subject-object distinctions fade.",
-    insights_jp: "ヴリッティが弱まると、心は清浄な水晶のようになり、対象・認識作用・認識者のいずれにも完全に染まります。これが**サマーパッティ**（等引）であり、主体と客体の区別が消える境地です。"
+    insights_jp: "ヴリッティが弱まると、心は清浄な水晶のようになり、対象・認識作用・認識者のいずれにも完全に染まります。これが**サマーパッティ**（等引）であり、主体と客体の区別が消える境地です。",
+    notes: [
+      {
+        key: {term: "samāpatti (engrossment)", ref: "Samapatti"},
+        note: "Total absorption, merging, identification"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "サマーパッティ", ref: "Samapatti"},
+        note: "等引、融合、同化"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -912,7 +1224,35 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "**Savitarkā samāpatti** is that engrossment in which knowledge of the word, its meaning, and the object are mixed up.",
     translation_jp: "そこにおいて、言葉、意味、知識の概念が混在した状態が、**有尋三昧**（**サヴィタルカー・サマーパッティ**）である。",
     insights: "**Savitarkā samāpatti** is absorption in which the mind is still entangled with words, meanings, and conceptual knowledge of the object. It is a profound state, though not yet free from conceptual overlay.",
-    insights_jp: "**サヴィタルカー・サマーパッティ**（**有尋三昧**）は、心が対象と言葉・意味・知識の概念と混在したまま吸収される状態です。深い境地ではありますが、概念的覆いからは解放されていません。"
+    insights_jp: "**サヴィタルカー・サマーパッティ**（**有尋三昧**）は、心が対象と言葉・意味・知識の概念と混在したまま吸収される状態です。深い境地ではありますが、概念的覆いからは解放されていません。",
+    notes: [
+      {
+        key: {term: "savitarka (with reasoning)", ref: "Savitarka"},
+        note: "With reasoning, analysis"
+      },
+      {
+        key: {term: "samāpatti (engrossment)", ref: "Samapatti"},
+        note: "Total absorption, merging, identification"
+      },
+      {
+        key: {term: "savitarka samāpatti (with reasoning absorption)", ref: "Savitarka Samapatti"},
+        note: "With reasoning, analysis"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "サヴィタルカー", ref: "Savitarka"},
+        note: "有尋、尋求、分析"
+      },
+      {
+        key: {term: "サマーパッティ", ref: "Samapatti"},
+        note: "等引、融合、同化"
+      },
+      {
+        key: {term: "サヴィタルカー・サマーパッティ", ref: "Savitarka Samapatti"},
+        note: "有尋三昧、有尋等引"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -922,7 +1262,35 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "**Nirvitarkā samāpatti** is when memory is purified, and the mind shines forth as the object alone, as if devoid of its own form.",
     translation_jp: "記憶が浄化され、自己の形を失ったかのように対象そのものだけが輝く状態が、**無尋三昧**（**ニルヴィタルカー・サマーパッティ**）である。",
     insights: "In **nirvitarkā samāpatti**, all memory and conceptualization are purified, so that only the object shines forth, as if the mind itself is absent. This is a subtler, more direct absorption.",
-    insights_jp: "**ニルヴィタルカー・サマーパッティ**（**無尋三昧**）では、記憶や概念が浄化され、心そのものが消えたかのように対象だけが輝きます。より微細で直接的な吸収状態です。"
+    insights_jp: "**ニルヴィタルカー・サマーパッティ**（**無尋三昧**）では、記憶や概念が浄化され、心そのものが消えたかのように対象だけが輝きます。より微細で直接的な吸収状態です。",
+    notes: [
+      {
+        key: {term: "nirvitarka (without reasoning)", ref: "Nirvitarka"},
+        note: "Without reasoning, analysis"
+      },
+      {
+        key: {term: "samāpatti (engrossment)", ref: "Samapatti"},
+        note: "Total absorption, merging, identification"
+      },
+      {
+        key: {term: "nirvitarka samāpatti (without reasoning absorption)", ref: "Nirvitarka Samapatti"},
+        note: "Without reasoning, analysis"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ニルヴィタルカー", ref: "Nirvitarka"},
+        note: "無尋、尋求のない、分析のない"
+      },
+      {
+        key: {term: "サマーパッティ", ref: "Samapatti"},
+        note: "等引、融合、同化"
+      },
+      {
+        key: {term: "ニルヴィタルカー・サマーパッティ", ref: "Nirvitarka Samapatti"},
+        note: "無尋三昧、無尋等引"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -932,7 +1300,43 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "By this, **savicārā**, **nirvicārā**, and subtler states of **samāpatti** are also explained.",
     translation_jp: "これによって、**有伺三昧**（**サヴィチャーラー**）、**無伺三昧**（**ニルヴィチャーラー**）、そしてさらに微細な対象を持つ**サマーパッティ**も説明される。",
     insights: "By analogy, **savicārā** and **nirvicārā samāpatti** pertain to subtle objects. The mind, in these absorptions, penetrates ever finer layers of reality, culminating in the subtlest unmanifest.",
-    insights_jp: "同様に、**有伺三昧**（**サヴィチャーラー**）・**無伺三昧**（**ニルヴィチャーラー**）は、微細な対象に向けられます。心はこれらの吸収によって、現実のより微細な層に入り、最も精妙な無相に至ります。"
+    insights_jp: "同様に、**有伺三昧**（**サヴィチャーラー**）・**無伺三昧**（**ニルヴィチャーラー**）は、微細な対象に向けられます。心はこれらの吸収によって、現実のより微細な層に入り、最も精妙な無相に至ります。",
+    notes: [
+      {
+        key: {term: "savicāra (with reflection)", ref: "Savicara"},
+        note: "With reflection, contemplation"
+      },
+      {
+        key: {term: "nirvicāra (without reflection)", ref: "Nirvicara"},
+        note: "Without reflection, contemplation"
+      },
+      {
+        key: {term: "savicārā samāpatti (with reflection absorption)", ref: "Savicara Samapatti"},
+        note: "With reflection, contemplation"
+      },
+      {
+        key: {term: "nirvicārā samāpatti (without reflection absorption)", ref: "Nirvicara Samapatti"},
+        note: "Without reflection, contemplation"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "サビチャーラ", ref: "Savicara"},
+        note: "有伺、伺う、考察する"
+      },
+      {
+        key: {term: "ニルヴィチャーラ", ref: "Nirvicara"},
+        note: "無伺、伺わない、考察しない"
+      },
+      {
+        key: {term: "サビチャーラ・サマーパッティ", ref: "Savicara Samapatti"},
+        note: "有伺三昧、有伺等引"
+      },
+      {
+        key: {term: "ニルヴィチャーラ・サマーパッティ", ref: "Nirvicara Samapatti"},
+        note: "無伺三昧、無伺等引"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -952,7 +1356,27 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "These (samāpattis) are **samādhi with seed**.",
     translation_jp: "これら（のサマーパッティ）は**種子のある三昧**（**サビージャ・サマーディ**）である。",
     insights: "All these states are **samādhi with seed** (**sabīja**)—absorptions in which some trace of objectivity remains. Their transcendence is necessary for the realization of the formless Self.",
-    insights_jp: "これらの状態はすべて、**種子を残す三昧**（**サビージャ・サマーディ**）です。対象性の痕跡が残るため、真の自己（無相）を悟るにはこれらも超える必要があります。"
+    insights_jp: "これらの状態はすべて、**種子を残す三昧**（**サビージャ・サマーディ**）です。対象性の痕跡が残るため、真の自己（無相）を悟るにはこれらも超える必要があります。",
+    notes: [
+      {
+        key: {term: "sabīja (with seed)", ref: "Sabija"},
+        note: "With seed, residue"
+      },
+      {
+        key: {term: "sabīja samādhi (with seed absorption)", ref: "Sabija Samadhi"},
+        note: "With seed, residue"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "サビージャ", ref: "Sabija"},
+        note: "有種、種子がある"
+      },
+      {
+        key: {term: "サビージャ・サマーディ", ref: "Sabija Samadhi"},
+        note: "有種三昧、種子を残す三昧"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -962,7 +1386,35 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "On attaining proficiency in **nirvicārā samāpatti**, clarity of the **inner Self** arises.",
     translation_jp: "**無伺三昧**（**ニルヴィチャーラー**）の熟達において、**内なる自己**の清澄さが生じる。",
     insights: "Proficiency in **nirvicārā samāpatti** brings about **adhyātma-prasāda—radiant** clarity of the **inner Self**. Here, the mind is so refined that the light of pure consciousness shines unobstructed.",
-    insights_jp: "**ニルヴィチャーラー・サマーパッティ**（**無伺三昧**）に熟達すると、**内なる自己**の光明（アディヤートマ・プラサーダ）が現れます。心が極限まで精緻化され、純粋意識の光が遮られることなく輝きます。"
+    insights_jp: "**ニルヴィチャーラー・サマーパッティ**（**無伺三昧**）に熟達すると、**内なる自己**の光明（アディヤートマ・プラサーダ）が現れます。心が極限まで精緻化され、純粋意識の光が遮られることなく輝きます。",
+    notes: [
+      {
+        key: {term: "nirvicārā samāpatti (without reflection absorption)", ref: "Nirvicara Samapatti"},
+        note: "Without reflection, contemplation"
+      },
+      {
+        key: {term: "vaiśāradya (proficiency)"},
+        note: "Proficiency, skill, mastery"
+      },
+      {
+        key: {term: "adhyātma-prasāda (inner Self clarity)"},
+        note: "Inner Self clarity, radiant"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ニルヴィチャーラー・サマーパッティ", ref: "Nirvicara Samapatti"},
+        note: "無伺三昧、無伺等引"
+      },
+      {
+        key: {term: "バイシャラーダ"},
+        note: "熟達、達成、精通"
+      },
+      {
+        key: {term: "アディヤートマ・プラサーダ"},
+        note: "内なる自己の清澄さ、光"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -972,7 +1424,27 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "In that state, **wisdom** is truth-bearing (ṛtaṁbharā).",
     translation_jp: "そこにおいて、**智慧**は真理を担う（リタンバラー）。",
     insights: "In this state, **prajñā** (**wisdom**) is ṛtaṁbharā—truth-bearing—directly reflecting reality without distortion. Such wisdom is not conceptual, but immediate and self-luminous.",
-    insights_jp: "この境地において、**智慧**（**プラジュニャー**）はリタンバラー（真理を担う）となり、歪みなく現実を直接映し出します。この智慧は概念的ではなく、即時的かつ自ら輝くものです。"
+    insights_jp: "この境地において、**智慧**（**プラジュニャー**）はリタンバラー（真理を担う）となり、歪みなく現実を直接映し出します。この智慧は概念的ではなく、即時的かつ自ら輝くものです。",
+    notes: [
+      {
+        key: {term: "ṛtaṁbharā (truth-bearing)"},
+        note: "Truth-bearing, filled with truth"
+      },
+      {
+        key: {term: "prajñā (wisdom)", ref: "Prajna"},
+        note: "Wisdom, discernment"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "リタンバラー"},
+        note: "真理を担う、真理を充满する"
+      },
+      {
+        key: {term: "プラジュニャー", ref: "Prajna"},
+        note: "智慧、洞察力"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -982,7 +1454,43 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "This wisdom is different from that gained by hearing or inference because its object is particular.",
     translation_jp: "（この智慧は）聞いたことや推論による智慧とは異なる。その対象が特殊であるためである。",
     insights: "The wisdom of samādhi is unique; it is not derived from scriptural study or inference, but from direct, unmediated experience of the particular reality present. This is transformative knowledge.",
-    insights_jp: "三昧における智慧は、聖典の学習や推論から得られるものではなく、現前する特殊な実在を直接体験することから生じます。これは変容をもたらす直観智です。"
+    insights_jp: "三昧における智慧は、聖典の学習や推論から得られるものではなく、現前する特殊な実在を直接体験することから生じます。これは変容をもたらす直観智です。",
+    notes: [
+      {
+        key: {term: "śrutānumānaprajñā (wisdom from hearing or inference)"},
+        note: "Wisdom from hearing or inference"
+      },
+      {
+        key: {term: "manyaviṣaya (particular object)"},
+        note: "Particular object, special object"
+      },
+      {
+        key: {term: "viśeṣa (particular, special)"},
+        note: "Particular, special"
+      },
+      {
+        key: {term: "arthatvāt (because of the object)"},
+        note: "Because of the object"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "スルーチャーナマーナプラジュニャー"},
+        note: "聞いたことや推論による智慧"
+      },
+      {
+        key: {term: "マナーヤヴィシャヤ"},
+        note: "特殊な対象"
+      },
+      {
+        key: {term: "ヴィセシャ"},
+        note: "特殊な、特定の"
+      },
+      {
+        key: {term: "アラターチョーター"},
+        note: "対象による"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -992,7 +1500,27 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "The latent impression born of this wisdom obstructs other latent impressions.",
     translation_jp: "それから生じる潜在印象は、他の潜在印象を妨げる。",
     insights: "The **saṁskāra** (**latent impression**) created by truth-bearing wisdom counteracts and eventually neutralizes all other saṁskāras. Thus, the seeds of bondage are gradually exhausted.",
-    insights_jp: "真理を担う智慧によって生じた**潜在印象**（**サンスカーラ**）は、他のすべてのサンスカーラを打ち消し、やがて中和します。このようにして、束縛の種子は徐々に尽きていきます。"
+    insights_jp: "真理を担う智慧によって生じた**潜在印象**（**サンスカーラ**）は、他のすべてのサンスカーラを打ち消し、やがて中和します。このようにして、束縛の種子は徐々に尽きていきます。",
+    notes: [
+      {
+        key: {term: "saṁskāra (latent impression)", ref: "Samskara"},
+        note: "Latent impressions, subconscious tendencies"
+      },
+      {
+        key: {term: "pratibandhī (obstructing)"},
+        note: "Obstructing, counteracting"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "サンスカーラ", ref: "Samskara"},
+        note: "潜在印象、潜在傾向"
+      },
+      {
+        key: {term: "プラティバンドヒー"},
+        note: "妨げる、阻害する"
+      }
+    ]
   },
   {
     chapter: 1,
@@ -1002,7 +1530,27 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "When even this is suppressed, by the suppression of all, **seedless samādhi** (**nirbīja samādhi**) is attained.",
     translation_jp: "それさえも止滅したとき、すべてが止滅するため、**種なし三昧**（**ニルビージャ・サマーディ**）が達成される。",
     insights: "When even the latent impression of truth-bearing wisdom is stilled, all vṛttis and saṁskāras are utterly transcended. This is **nirbīja samādhi**—**seedless absorption**—the consummation of yoga, where the Self shines alone.",
-    insights_jp: "真理を担う智慧のサンスカーラさえも止滅したとき、すべてのヴリッティとサンスカーラが完全に超克されます。これが**種なし三昧**（**ニルビージャ・サマーディ**）であり、ヨーガの究極完成、純粋自己の輝きそのものです。"
+    insights_jp: "真理を担う智慧のサンスカーラさえも止滅したとき、すべてのヴリッティとサンスカーラが完全に超克されます。これが**種なし三昧**（**ニルビージャ・サマーディ**）であり、ヨーガの究極完成、純粋自己の輝きそのものです。",
+    notes: [
+      {
+        key: {term: "nirbīja (seedless)", ref: "Nirbija"},
+        note: "Seedless, without residue"
+      },
+      {
+        key: {term: "nirbīja samādhi (seedless absorption)", ref: "Nirbija Samadhi"},
+        note: "Seedless absorption, nirbīja samādhi"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ニールビージャ", ref: "Nirbija"},
+        note: "無種、種子がない"
+      },
+      {
+        key: {term: "ニールビージャ・サマーディ", ref: "Nirbija Samadhi"},
+        note: "無種三昧、種子を残さない三昧"
+      }
+    ]
   }
 ];
 
