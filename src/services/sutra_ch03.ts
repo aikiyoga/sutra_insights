@@ -9,7 +9,19 @@ export const yoga_sutras_vibhuti_pada : YogaSutra[] = [
     translation: "**Concentration** (**dhāraṇā**) is the mind's confinement to one place.",
     translation_jp: "心の一つの場所への束縛が**ダーラナー**（**集中**）である。",
     insights: "**Dhāraṇā** marks the transition from scattered awareness to deliberate, one-pointed focus. This discipline is the beginning of mental mastery and is essential for further **yogic** attainment.",
-    insights_jp: "**ダーラナー**は、散漫な意識から意図的で**一点集中**の意識への転換点です。この修練は心を制御する第一歩であり、さらなるヨーガの達成には不可欠です。"
+    insights_jp: "**ダーラナー**は、散漫な意識から意図的で**一点集中**の意識への転換点です。この修練は心を制御する第一歩であり、さらなるヨーガの達成には不可欠です。",
+    notes: [
+      {
+        key: {term: "dhāraṇā (concentration)", ref: "Dharana"},
+        note: "Concentration, focus, dhāraṇā"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ダーラナー", ref: "Dharana"},
+        note: "集中、焦点、ダーラナー"
+      }
+    ]
   },
   {
     chapter: 3,
@@ -19,7 +31,19 @@ export const yoga_sutras_vibhuti_pada : YogaSutra[] = [
     translation: "**Meditation** (**dhyāna**) is the continuous flow of similar mental modifications in that place.",
     translation_jp: "そこにおいて、認識の連続的な流れが**ディヤーナ**（**瞑想**）である。",
     insights: "**Dhyāna** is the uninterrupted flow of attention toward an object, transforming **concentration** into **meditation**. Here, the practitioner moves from effort to an effortless state of continuous awareness.",
-    insights_jp: "**ディヤーナ**は、対象への注意が途切れることなく流れる状態であり、**集中**が**瞑想**へと変化します。この段階では、修行者は努力から自然な持続的気づきへと移行します。"
+    insights_jp: "**ディヤーナ**は、対象への注意が途切れることなく流れる状態であり、**集中**が**瞑想**へと変化します。この段階では、修行者は努力から自然な持続的気づきへと移行します。",
+    notes: [
+      {
+        key: {term: "dhyāna (meditation)", ref: "Dhyana"},
+        note: "Meditation, contemplation, absorption"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ディヤーナ", ref: "Dhyana"},
+        note: "瞑想、集中、没入"
+      }
+    ]
   },
   {
     chapter: 3,
@@ -29,7 +53,19 @@ export const yoga_sutras_vibhuti_pada : YogaSutra[] = [
     translation: "**Samādhi** is when that same (**meditation**) shines forth as the object alone, as if devoid of its own form.",
     translation_jp: "それ自体が対象のみとして輝き、自己の形を失ったかのような状態が**サマーディ**（**三昧**）である。",
     insights: "**Samādhi** represents the highest state of **meditation**, where the mind becomes completely absorbed in the object of focus, transcending the duality of subject and object.",
-    insights_jp: "**サマーディ**は、対象と主体の二重性を越えて、完全にその対象に没頭した状態を表します。"
+    insights_jp: "**サマーディ**は、対象と主体の二重性を越えて、完全にその対象に没頭した状態を表します。",
+    notes: [
+      {
+        key: {term: "samādhi (absorption)", ref: "Samadhi"},
+        note: "Absorption, meditation, contemplation"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "サマーディ", ref: "Samadhi"},
+        note: "瞑想、集中、没入"
+      }
+    ]
   },
   {
     chapter: 3,
@@ -39,7 +75,19 @@ export const yoga_sutras_vibhuti_pada : YogaSutra[] = [
     translation: "These three (**dhāraṇā**, **dhyāna**, and **samādhi**) together on one object constitute **saṁyama**.",
     translation_jp: "これら三つが一つになったものが**サンヤマ**（総制）である。",
     insights: "**Saṁyama** is the culmination of **dhāraṇā**, **dhyāna**, and **samādhi**, representing the ability to focus on a single object without distraction.",
-    insights_jp: "**サンヤマ**は、**ダーラナー**、**ディヤーナ**、**サマーディ**を一元化した、一意の対象に注意を当てる能力を表します。"
+    insights_jp: "**サンヤマ**は、**ダーラナー**、**ディヤーナ**、**サマーディ**を一元化した、一意の対象に注意を当てる能力を表します。",
+    notes: [
+      {
+        key: {term: "saṁyama (integration)", ref: "Samyama"},
+        note: "Integration, concentration, meditation, absorption"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "サンヤマ", ref: "Samyama"},
+        note: "総合的集中、統合、融合"
+      }
+    ]
   },
   {
     chapter: 3,
@@ -49,7 +97,19 @@ export const yoga_sutras_vibhuti_pada : YogaSutra[] = [
     translation: "From the mastery of **saṁyama** comes the light of **wisdom** (**prajñā**).",
     translation_jp: "その（**サンヤマ**の）克服によって、**智慧**の光が生じる。",
     insights: "The mastery of **saṁyama** leads to the illumination of **prajñā**, or higher **wisdom**, which transcends mere intellectual knowledge.",
-    insights_jp: "**サンヤマ**の克服は、単なる知識を超えた、より高い**知恵**（**プラジナ**）の明かりをもたらします。"
+    insights_jp: "**サンヤマ**の克服は、単なる知識を超えた、より高い**知恵**（**プラジナ**）の明かりをもたらします。",
+    notes: [
+      {
+        key: {term: "prajñā (wisdom)", ref: "Prajna"},
+        note: "Wisdom, insight, knowledge"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "プラジナ (wisdom)", ref: "Prajna"},
+        note: "知恵、洞察、知識"
+      }
+    ]
   },
   {
     chapter: 3,
@@ -59,7 +119,19 @@ export const yoga_sutras_vibhuti_pada : YogaSutra[] = [
     translation: "Its application is in stages (of **saṁyama**).",
     translation_jp: "その（**サンヤマ**の）適用は段階的に行われる。",
     insights: "The practice of **saṁyama** is progressive, with each stage building upon the previous one, leading to deeper levels of **concentration** and awareness.",
-    insights_jp: "**サンヤマ**の練習は段階的で、前の段階を基に、より深い**集中**と意識へと進行します。"
+    insights_jp: "**サンヤマ**の練習は段階的で、前の段階を基に、より深い**集中**と意識へと進行します。",
+    notes: [
+      {
+        key: {term: "viniyoga (application)"},
+        note: "Application, implementation, practice"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ビニヨーガ (application)"},
+        note: "適用、実践、練習"
+      }
+    ]
   },
   {
     chapter: 3,
@@ -79,7 +151,27 @@ export const yoga_sutras_vibhuti_pada : YogaSutra[] = [
     translation: "Even these (three) are external to the **seedless** (**nirbīja**) **samādhi**.",
     translation_jp: "それさえも、**種なし三昧**（**ニルビージャ・サマーディ**）にとっては外的なものである。",
     insights: "While **dhāraṇā**, **dhyāna**, and **samādhi** are external practices, they serve as the foundation for the more advanced, **seedless samādhi**.",
-    insights_jp: "**ダーラナー**、**ディヤーナ**、**サマーディ**は、より高度な**種なしのサマーディ**（**ニルビージャ・サマーディ**）の基礎となる外部の練習です。"
+    insights_jp: "**ダーラナー**、**ディヤーナ**、**サマーディ**は、より高度な**種なしのサマーディ**（**ニルビージャ・サマーディ**）の基礎となる外部の練習です。",
+    notes: [
+      {
+        key: {term: "nirbīja (seedless)", ref: "Nirbija"},
+        note: "Seedless, without residue"
+      },
+      {
+        key: {term: "nirbīja samādhi (seedless absorption)", ref: "Nirbija Samadhi"},
+        note: "Seedless absorption, nirbīja samādhi"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ニールビージャ", ref: "Nirbija"},
+        note: "無種、種子がない"
+      },
+      {
+        key: {term: "ニールビージャ・サマーディ", ref: "Nirbija Samadhi"},
+        note: "無種三昧、種子を残さない三昧"
+      }
+    ]
   },
   {
     chapter: 3,
@@ -89,7 +181,35 @@ export const yoga_sutras_vibhuti_pada : YogaSutra[] = [
     translation: "**Nirodha pariṇāma** is that transformation of the mind in which it becomes progressively permeated by the moments of **nirodha** (cessation), as the outgoing **saṁskāras** are overcome and the **saṁskāras** of **nirodha** emerge.",
     translation_jp: "出現の潜在印象と抑制の潜在印象の克服と出現、抑制の瞬間の心の連続が、抑制への変化（**ニローダ・パリナーマ**）である。",
     insights: "**Nirodha pariṇāma** represents the process of gradually overcoming mental modifications and achieving a state of deep **concentration** and stillness.",
-    insights_jp: "**ニローダ・パリナーマ**は、徐々に心の変化を克服し、深い**集中**と静寂の状態に達する過程を表します。"
+    insights_jp: "**ニローダ・パリナーマ**は、徐々に心の変化を克服し、深い**集中**と静寂の状態に達する過程を表します。",
+    notes: [
+      {
+        key: {term: "nirodha pariṇāma (cessation transformation)", ref: "Nirodha Parinama"},
+        note: "Cessation transformation, nirodha pariṇāma"
+      },
+      {
+        key: {term: "nirodha (cessation)", ref: "Nirodha"},
+        note: "Cessation, restraint, suppression"
+      },
+      {
+        key: {term: "pariṇāma (transformation)", ref: "Parinama"},
+        note: "Transformation, change, evolution"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ニローダ・パリナーマ", ref: "Nirodha Parinama"},
+        note: "抑制への変化、ニローダ・パリナーマ"
+      },
+      {
+        key: {term: "ニローダ", ref: "Nirodha"},
+        note: "抑制、制御、止める"
+      },
+      {
+        key: {term: "パリナーマ", ref: "Parinama"},
+        note: "変容、変化、進化"
+      }
+    ]
   },
   {
     chapter: 3,
@@ -109,7 +229,35 @@ export const yoga_sutras_vibhuti_pada : YogaSutra[] = [
     translation: "**Samādhi pariṇāma** is the transformation where the mind's all-pointedness subsides and one-pointedness arises.",
     translation_jp: "あらゆる対象への志向性の消滅と**一点集中**の出現が、心のサマーディへの変化（**サマーディ・パリナーマ**）である。",
     insights: "**Samādhi pariṇāma** involves the transition from diffuse awareness to a state of intense, **single-pointed focus**.",
-    insights_jp: "**サマーディ・パリナーマ**は、散漫な意識から**一点集中**の意識への変化を表します。"
+    insights_jp: "**サマーディ・パリナーマ**は、散漫な意識から**一点集中**の意識への変化を表します。",
+    notes: [
+      {
+        key: {term: "samādhi pariṇāma (absorption transformation)", ref: "Samadhi Parinama"},
+        note: "Absorption transformation, samādhi pariṇāma"
+      },
+      {
+        key: {term: "sarvārtha (all-pointedness)"},
+        note: "All-pointedness, diffuse awareness"
+      },
+      {
+        key: {term: "ekāgratā (one-pointedness)"},
+        note: "One-pointedness, intense focus"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "サマーディ・パリナーマ", ref: "Samadhi Parinama"},
+        note: "サマーディへの変化、サマーディ・パリナーマ"
+      },
+      {
+        key: {term: "サルヴァルタ (all-pointedness)"},
+        note: "すべての対象への志向性"
+      },
+      {
+        key: {term: "エカグラタ (one-pointedness)"},
+        note: "一点集中"
+      }
+    ]
   },
   {
     chapter: 3,
@@ -119,7 +267,27 @@ export const yoga_sutras_vibhuti_pada : YogaSutra[] = [
     translation: "Then again, when the subsided and arisen modifications are similar, it is the one-pointed transformation of the mind (**ekāgratā pariṇāma**).",
     translation_jp: "そして再び、静まった認識と生起した認識が等しいとき、それが心の**一点集中**への変化（**エカーグラター・パリナーマ**）である。",
     insights: "When similar mental modifications arise after a period of stillness, it marks a deeper level of **concentration** and focus.",
-    insights_jp: "静まった認識と生起した認識が等しいとき、それはさらに深い**集中**と焦点を表します。"
+    insights_jp: "静まった認識と生起した認識が等しいとき、それはさらに深い**集中**と焦点を表します。",
+    notes: [
+      {
+        key: {term: "ekāgratā pariṇāma (one-pointed transformation)", ref: "Ekagrata Parinama"},
+        note: "One-pointed transformation, ekāgratā pariṇāma"
+      },
+      {
+        key: {term: "ekāgratā (one-pointedness)"},
+        note: "One-pointedness, intense focus"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "エーカグラタ・パリナーマ", ref: "Ekagrata Parinama"},
+        note: "一点集中への変化、エーカグラタ・パリナーマ"
+      },
+      {
+        key: {term: "エカグラタ (one-pointedness)"},
+        note: "一点集中"
+      }
+    ]
   },
   {
     chapter: 3,
@@ -129,7 +297,19 @@ export const yoga_sutras_vibhuti_pada : YogaSutra[] = [
     translation: "By this, the transformations of property, characteristic, and condition in the elements and sense organs are also explained.",
     translation_jp: "これによって、元素と感覚器官における特性、相、状態の変化が説明される。",
     insights: "This verse explains how the practice of **saṁyama** can reveal the underlying nature of the elements and sense organs.",
-    insights_jp: "この詩は、**サンヤマ**の練習が元素と感覚器官の本質的な性質を明らかにする方法を説明しています。"
+    insights_jp: "この詩は、**サンヤマ**の練習が元素と感覚器官の本質的な性質を明らかにする方法を説明しています。",
+    notes: [
+      {
+        key: {term: "dharma (property)", ref: "Dharma"},
+        note: "Property, characteristic, quality"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ダルマ (property)", ref: "Dharma"},
+        note: "特性、相、性質"
+      }
+    ]
   },
   {
     chapter: 3,
@@ -149,7 +329,19 @@ export const yoga_sutras_vibhuti_pada : YogaSutra[] = [
     translation: "Difference in sequence is the cause of difference in **transformation**.",
     translation_jp: "順序の違いが、**変化**の違いの原因である。",
     insights: "The order of events determines the nature of the **transformation** that occurs.",
-    insights_jp: "イベントの順序は、発生する**変化**の性質を決定します。"
+    insights_jp: "イベントの順序は、発生する**変化**の性質を決定します。",
+    notes: [
+      {
+        key: {term: "pariṇāma (transformation)", ref: "Parinama"},
+        note: "Transformation, change, evolution"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "パリナーマ (transformation)", ref: "Parinama"},
+        note: "変容、変化、進化"
+      }
+    ]
   },
   {
     chapter: 3,
@@ -159,7 +351,27 @@ export const yoga_sutras_vibhuti_pada : YogaSutra[] = [
     translation: "By **saṁyama** on the three kinds of **transformations** (property, characteristic, condition), knowledge of the past and future arises.",
     translation_jp: "三つの**変化**（特性、相、状態）への**サンヤマ**によって、過去と未来の知識が生じる。",
     insights: "**Saṁyama** on the three kinds of **transformations** allows for the acquisition of knowledge about past and future events.",
-    insights_jp: "三つの**変化**への**サンヤマ**は、過去と未来の知識を獲得するための手段です。"
+    insights_jp: "三つの**変化**への**サンヤマ**は、過去と未来の知識を獲得するための手段です。",
+    notes: [
+      {
+        key: {term: "samyama (integration)", ref: "Samyama"},
+        note: "Integration, concentration, meditation, absorption"
+      },
+      {
+        key: {term: "jnanam (knowledge)", ref: "Jnana"},
+        note: "Knowledge, realization, insight"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "サンヤマ (integration)", ref: "Samyama"},
+        note: "総合的集中、統合、融合"
+      },
+      {
+        key: {term: "ジュナナ (knowledge)", ref: "Jnana"},
+        note: "知識、理解、洞察"
+      }
+    ]
   },
   {
     chapter: 3,
@@ -509,7 +721,19 @@ export const yoga_sutras_vibhuti_pada : YogaSutra[] = [
     translation: "By non-attachment even to that (supremacy and omniscience), the seeds of bondage are destroyed, and **kaivalya** (**liberation**) is attained.",
     translation_jp: "それ（支配力と全知性）への離欲によってさえも、欠陥の種子が破壊されると、**独存**（**カイヴァルヤ**）が得られる。",
     insights: "Non-attachment to even the highest states of existence leads to the destruction of the seeds of bondage and attainment of **kaivalya**.",
-    insights_jp: "最高の存在状態への離欲は、欠陥の種子を破壊し、**独存**（**カイヴァルヤ**）を達成する手段です。"
+    insights_jp: "最高の存在状態への離欲は、欠陥の種子を破壊し、**独存**（**カイヴァルヤ**）を達成する手段です。",
+    notes: [
+      {
+        key: {term: "kaivalya (liberation)", ref: "Kaivalya"},
+        note: "Isolation, liberation, emancipation"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "カイヴァルヤ (liberation)", ref: "Kaivalya"},
+        note: "孤立、解脱、免除"
+      }
+    ]
   },
   {
     chapter: 3,

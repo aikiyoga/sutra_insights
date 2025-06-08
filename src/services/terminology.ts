@@ -1095,6 +1095,31 @@ export const yoga_sutra_terms = {
         insights: "Nirbija refers to the highest form of samadhi where the mind is completely free from impressions or seeds of thought, resulting in pure awareness.",
         insights_jp: "ニールビージャは、思考の印象や種子から完全に解放された最高のサマーディを指し、純粋な意識の状態をもたらします。"
     },
+    Nirodha: {
+        refs: [
+            {
+                chapter: 3,
+                verse: 9
+            },
+            {
+                chapter: 3,
+                verse: 10
+            },
+            {
+                chapter: 3,
+                verse: 11
+            },
+            {
+                chapter: 3,
+                verse: 13
+            }
+        ],
+        term_jp: "ニローダ",
+        definition: "Cessation; restraint or suppression of mental modifications.",
+        definition_jp: "抑制。心の変化の制御や抑制。",
+        insights: "Nirodha refers to the restraint or suppression of mental modifications, leading to a state of inner stillness and deep concentration.",
+        insights_jp: "ニローダは、心の変化を制御または抑制することを指し、内心的な静けさと深い集中の状態に至ります。"
+    },
     Nirodha_Parinama: {
         refs: [
             {

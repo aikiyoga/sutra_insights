@@ -9,7 +9,19 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     translation: "Perfections (**siddhis**) arise from **birth**, **herbs**, **mantras**, **austerity**, or **samādhi**.",
     translation_jp: "誕生、薬草、マントラ、苦行、サマーディから成就（**シッディ**）が生じる。",
     insights: "This verse elucidates the diverse origins of **siddhis**, emphasizing that spiritual powers can manifest through natural **birth**, medicinal **herbs**, sacred **mantras**, disciplined **austerities**, or deep meditative **samādhi**. It highlights the multifaceted paths to spiritual attainment, reflecting the integrative nature of yogic practice.",
-    insights_jp: "この節は**シッディ**の多様な起源を明らかにし、霊的な力が自然な**誕生**、**薬草**、聖なる**マントラ**、厳しい**苦行**、または深い**サマーディ**の没入を通じて現れることを強調している。これはヨーガの実践の統合的な性質を反映し、霊的成就への多面的な道を示している。"
+    insights_jp: "この節は**シッディ**の多様な起源を明らかにし、霊的な力が自然な**誕生**、**薬草**、聖なる**マントラ**、厳しい**苦行**、または深い**サマーディ**の没入を通じて現れることを強調している。これはヨーガの実践の統合的な性質を反映し、霊的成就への多面的な道を示している。",
+    notes: [
+      {
+        key: {term: "siddhi (perfection)", ref: "Siddhi"},
+        note: "Perfection, accomplishment, attainment"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "シッディ (perfection)", ref: "Siddhi"},
+        note: "達成、実現、精通"
+      }
+    ]
   },
   {
     chapter: 4,
@@ -19,7 +31,19 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     translation: "The transformation into another species (or class of **birth**) is by the overflow of natural tendencies (**prakṛti**).",
     translation_jp: "他の種族への変化は、自然（**プラクリティ**）の充満によって起こる。",
     insights: "This verse reveals that the transmigration or transformation of beings into different forms or species is governed by the surging of inherent qualities within **prakṛti**. It underscores the dynamic and fluid nature of **samsara**, driven by the intensity of natural tendencies rather than arbitrary causes.",
-    insights_jp: "この節は、生物が異なる形態や種に転生・変化することは、**プラクリティ**内の固有の性質の高まりによって支配されていることを示している。これは、任意の原因ではなく自然の傾向の強さによって動かされる**輪廻**の動的かつ流動的な性質を強調している。"
+    insights_jp: "この節は、生物が異なる形態や種に転生・変化することは、**プラクリティ**内の固有の性質の高まりによって支配されていることを示している。これは、任意の原因ではなく自然の傾向の強さによって動かされる**輪廻**の動的かつ流動的な性質を強調している。",
+    notes: [
+      {
+        key: {term: "prakṛti (nature)", ref: "Prakrti"},
+        note: "Nature, matter, unconsciousness"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "プラクリティ (nature)", ref: "Prakrti"},
+        note: "自然、物質、無意識"
+      }
+    ]
   },
   {
     chapter: 4,
@@ -39,7 +63,19 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     translation: "Created minds (arise) from **I-am-ness** alone.",
     translation_jp: "創造された心は、ただ我性（**アスミター**）から生じる。",
     insights: "This verse identifies the ego sense ('**I-am-ness**') as the sole source of the manifold created minds, highlighting the centrality of **ahamkara** in the manifestation of individual consciousness. It points to the **ego** as the fundamental principle from which diverse mental modifications arise.",
-    insights_jp: "この節は、多様な創造された心の唯一の源として**我性（アスミター）**を特定し、個別の意識の顕現における**アハムカーラ**の中心性を強調している。多様な心の変容が生じる根本原理としての**自我**を示している。"
+    insights_jp: "この節は、多様な創造された心の唯一の源として**我性（アスミター）**を特定し、個別の意識の顕現における**アハムカーラ**の中心性を強調している。多様な心の変容が生じる根本原理としての**自我**を示している。",
+    notes: [
+      {
+        key: {term: "asmita (I-am-ness)", ref: "Asmita"},
+        note: "Egoism, sense of individuality, I-am-ness"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "アスミター (I-am-ness)", ref: "Asmita"},
+        note: "我慢、私、私は"
+      }
+    ]
   },
   {
     chapter: 4,
@@ -69,7 +105,19 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     translation: "The **karma** of a yogi is neither white nor black; for others, it is threefold (white, black, or mixed).",
     translation_jp: "ヨーギーの行為（**カルマ**）は白でも黒でもない。その他の者の行為は三種類（白、黒、混合）である。",
     insights: "This verse highlights the transcendence of dualistic **karma** in the yogi, whose actions are beyond conventional moral classifications. For ordinary beings, karma remains categorized as pure, impure, or mixed, reflecting the dualistic nature of **samsaric** existence.",
-    insights_jp: "この節は、ヨーギーの行為が通常の道徳的分類を超越していることを強調している。一般の者にとっては、**カルマ**は純粋、不純、混合の三つに分類され、**輪廻**の二元的性質を反映している。"
+    insights_jp: "この節は、ヨーギーの行為が通常の道徳的分類を超越していることを強調している。一般の者にとっては、**カルマ**は純粋、不純、混合の三つに分類され、**輪廻**の二元的性質を反映している。",
+    notes: [
+      {
+        key: {term: "karma (action)", ref: "Karma"},
+        note: "Action, deed, consequence"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "カルマ (action)", ref: "Karma"},
+        note: "行為、功績、果報"
+      }
+    ]
   },
   {
     chapter: 4,
@@ -79,7 +127,19 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     translation: "From these (threefold **karmas**), manifest only those subconscious impressions (**vāsanās**) for which the conditions are favorable.",
     translation_jp: "それら（三種類の行為）から、その結果に適した潜在的欲求（**ヴァーサナー**）のみが現れる。",
     insights: "This verse explains that only those **vasanas** aligned with conducive conditions manifest, indicating a selective activation of latent impressions. It reflects the conditional nature of **karmic** fruition and the role of environmental and internal factors in shaping experience.",
-    insights_jp: "この節は、適した条件に合致した**ヴァーサナー**のみが現れることを説明し、潜在印象の選択的活性化を示している。これは**カルマ**の結果の条件的性質と、経験を形作る環境的および内的要因の役割を反映している。"
+    insights_jp: "この節は、適した条件に合致した**ヴァーサナー**のみが現れることを説明し、潜在印象の選択的活性化を示している。これは**カルマ**の結果の条件的性質と、経験を形作る環境的および内的要因の役割を反映している。",
+    notes: [
+      {
+        key: {term: "vāsanā (latent impression)", ref: "Vasana"},
+        note: "Latent impression, subconscious tendency"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ヴァーサナー (latent impression)", ref: "Vasana"},
+        note: "潜在印象、潜在的欲求"
+      }
+    ]
   },
   {
     chapter: 4,
@@ -89,7 +149,19 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     translation: "Because memory and latent impressions (**vāsanās**) are identical in form, there is an uninterrupted connection even though separated by **birth**, place, and time.",
     translation_jp: "記憶と潜在印象（**ヴァーサナー**）は同じ形であるため、**種族**、場所、時間によって隔てられていても、連続性がある。",
     insights: "This verse underscores the ontological continuity of memory and **vasanas**, asserting their identical nature transcends spatial-temporal divisions. It suggests a persistent substratum linking past and present experiences across lifetimes.",
-    insights_jp: "この節は、記憶と**ヴァーサナー**の存在論的連続性を強調し、その同一性が時空の区分を超越することを主張している。これは、生涯を超えた過去と現在の経験を結ぶ持続的な基盤を示唆している。"
+    insights_jp: "この節は、記憶と**ヴァーサナー**の存在論的連続性を強調し、その同一性が時空の区分を超越することを主張している。これは、生涯を超えた過去と現在の経験を結ぶ持続的な基盤を示唆している。",
+    notes: [
+      {
+        key: {term: "vāsanā (latent impression)", ref: "Vasana"},
+        note: "Latent impression, subconscious tendency"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ヴァーサナー (latent impression)", ref: "Vasana"},
+        note: "潜在印象、潜在的欲求"
+      }
+    ]
   },
   {
     chapter: 4,
@@ -129,7 +201,19 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     translation: "They (characteristics) are manifest or subtle, being of the nature of the **guṇas**.",
     translation_jp: "それら（特性）は、**グナ**（自然の三つの構成要素）を本質とするため、顕在的または微細である。",
     insights: "This verse explains that the qualities or characteristics inherent in phenomena manifest at varying degrees of subtlety, all rooted in the three **guṇas**. It reflects the foundational role of **guṇas** in constituting both gross and subtle aspects of reality.",
-    insights_jp: "この節は、現象に内在する特性が三つの**グナ**に根ざし、顕現的または微細な様相で現れることを説明している。これは、現実の粗大面と微細面の両方を構成する**グナ**の基礎的役割を反映している。"
+    insights_jp: "この節は、現象に内在する特性が三つの**グナ**に根ざし、顕現的または微細な様相で現れることを説明している。これは、現実の粗大面と微細面の両方を構成する**グナ**の基礎的役割を反映している。",
+    notes: [
+      {
+        key: {term: "guṇa (quality)", ref: "Guna"},
+        note: "Quality, attribute, constituent"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "グナ (quality)", ref: "Guna"},
+        note: "性質、属性、構成要素"
+      }
+    ]
   },
   {
     chapter: 4,
@@ -179,7 +263,19 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     translation: "The modifications of the **mind** are always known to its lord, the **Puruṣa**, because of its unchangeability.",
     translation_jp: "心の作用は、その主である**プルシャ**（純粋意識）の不変性のため、常に知られている。",
     insights: "This verse reveals the omniscience of the **Puruṣa**, the immutable witness, who is always aware of the **mind**'s fluctuations. It reflects the metaphysical distinction between the changeless self and the transient mental modifications.",
-    insights_jp: "この節は、不変の観察者である**プルシャ**が常に心の変動を知覚している全知性を明らかにしている。これは、変わらぬ自己と一時的な心の変化との形而上学的区別を反映している。"
+    insights_jp: "この節は、不変の観察者である**プルシャ**が常に心の変動を知覚している全知性を明らかにしている。これは、変わらぬ自己と一時的な心の変化との形而上学的区別を反映している。",
+    notes: [
+      {
+        key: {term: "Puruṣa (Self)", ref: "Purusa"},
+        note: "Self, pure consciousness"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "プルシャ (Self)", ref: "Purusa"},
+        note: "自己、純粋意識"
+      }
+    ]
   },
   {
     chapter: 4,
@@ -249,7 +345,19 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     translation: "For one who sees the distinction (between **Puruṣa** and **mind**), the false identification with the nature of the Self ceases.",
     translation_jp: "特別な識別を持つ者にとっては、自己の本性への（誤った）観念が止む。",
     insights: "This verse signifies the liberating insight gained by discerning the difference between the **self** and the **mind**, leading to the cessation of misidentification. It marks a critical turning point in spiritual realization, dissolving **egoic** illusions.",
-    insights_jp: "この節は、**自己**と**心**の違いを識別することで得られる解放的洞察を意味し、誤った自己認識の停止をもたらす。これは霊的悟りの重要な転換点であり、**エゴ**の幻想を解消する。"
+    insights_jp: "この節は、**自己**と**心**の違いを識別することで得られる解放的洞察を意味し、誤った自己認識の停止をもたらす。これは霊的悟りの重要な転換点であり、**エゴ**の幻想を解消する。",
+    notes: [
+      {
+        key: {term: "atma (Self)", ref: "Atma"},
+        note: "Self, pure consciousness"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "アタマ (Self)", ref: "Atma"},
+        note: "自己、純粋意識"
+      }
+    ]
   },
   {
     chapter: 4,
@@ -259,7 +367,27 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     translation: "Then the **mind**, inclined towards discrimination, gravitates towards liberation (**kaivalya**).",
     translation_jp: "その時、心は識別へと傾き、独存（**カイヴァルヤ**）へと向かう。",
     insights: "This verse describes the mind's natural tendency to move towards **kaivalya** once discrimination (**viveka**) is firmly established. It portrays **liberation** as the culmination of refined discernment and mental orientation.",
-    insights_jp: "この節は、識別（**ヴィヴェーカ**）が確立されると、心が自然に**カイヴァルヤ**へ向かう傾向を描いている。これは、洗練された洞察と心の方向付けの究極としての**解放**を表している。"
+    insights_jp: "この節は、識別（**ヴィヴェーカ**）が確立されると、心が自然に**カイヴァルヤ**へ向かう傾向を描いている。これは、洗練された洞察と心の方向付けの究極としての**解放**を表している。",
+    notes: [
+      {
+        key: {term: "viveka (discrimination)", ref: "Viveka"},
+        note: "Discrimination, discernment, wisdom"
+      },
+      {
+        key: {term: "kaivalya (liberation)", ref: "Kaivalya"},
+        note: "Liberation, isolation, emancipation"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ヴィヴェーカ (discrimination)", ref: "Viveka"},
+        note: "識別、分別、洞察"
+      },
+      {
+        key: {term: "カイヴァルヤ (liberation)", ref: "Kaivalya"},
+        note: "解脱、孤立、免除"
+      }
+    ]
   },
   {
     chapter: 4,
@@ -269,7 +397,27 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     translation: "In the intervals of that (**discriminative awareness**), other thoughts arise from latent impressions (**vasanas**).",
     translation_jp: "その（識別の）間隙に、潜在印象（**ヴァーサナー**）から他の認識が生じる。",
     insights: "This verse acknowledges the persistence of **vasanas**, as latent impressions continue to produce thoughts even during moments of discrimination. It highlights the ongoing challenge of mental fluctuations during spiritual progress.",
-    insights_jp: "この節は、識別の瞬間にも**ヴァーサナー**が持続し、潜在印象から他の思考が生じ続けることを認めている。これは霊的進歩における心の変動の継続的な課題を強調している。"
+    insights_jp: "この節は、識別の瞬間にも**ヴァーサナー**が持続し、潜在印象から他の思考が生じ続けることを認めている。これは霊的進歩における心の変動の継続的な課題を強調している。",
+    notes: [
+      {
+        key: {term: "pratyaya (thought)", ref: "Pratyaya"},
+        note: "Thought, cognition, recognition"
+      },
+      {
+        key: {term: "samskara (latent impressions)", ref: "Samskara"},
+        note: "Latent impressions, subconscious tendencies"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "プラティヤ (thought)", ref: "Pratyaya"},
+        note: "思考、認知、認識"
+      },
+      {
+        key: {term: "サンスカーラ (latent impressions)", ref: "Samskara"},
+        note: "潜在印象、潜在的欲求"
+      }
+    ]
   },
   {
     chapter: 4,
@@ -279,7 +427,27 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     translation: "Their removal is as described for the afflictions (**kleśas**).",
     translation_jp: "これらの除去は、煩悩（**クレーシャ**）について述べられたように行われる。",
     insights: "This verse indicates that the eradication of distracting thoughts and **vasanas** follows the same methods used to overcome **kleśas**, such as discrimination and detachment. It connects the purification of the mind with the broader yogic path of affliction removal.",
-    insights_jp: "この節は、気を散らす思考や**ヴァーサナー**の除去が、識別や離欲などの**クレーシャ**克服の方法と同様に行われることを示している。これは心の浄化を苦悩除去のヨーガ的道と結びつけている。"
+    insights_jp: "この節は、気を散らす思考や**ヴァーサナー**の除去が、識別や離欲などの**クレーシャ**克服の方法と同様に行われることを示している。これは心の浄化を苦悩除去のヨーガ的道と結びつけている。",
+    notes: [
+      {
+        key: {term: "kleśa (affliction)", ref: "Klesha"},
+        note: "Affliction, suffering, misery"
+      },
+      {
+        key: {term: "dukha (suffering)", ref: "Dukha"},
+        note: "Suffering, pain, misery"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "クレーシャ (affliction)", ref: "Klesha"},
+        note: "煩悩、苦しみ、辛抱"
+      },
+      {
+        key: {term: "ドゥッカ (suffering)", ref: "Dukha"},
+        note: "苦悩、苦痛、辛抱"
+      }
+    ]
   },
   {
     chapter: 4,
@@ -289,7 +457,27 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     translation: "For one who is able to maintain a constant state of the highest discrimination, even when not actively engaged in it, and who has no interest even in omniscience, the **samādhi** called **dharmamegha** (cloud of virtue) arises.",
     translation_jp: "最高の識別においてさえ無欲であり、常に識別知を保つ者には、**法雲三昧**（**ダルマメーガ・サマーディ**）が生じる。",
     insights: "This verse describes the attainment of **dharmamegha samādhi**, a state of continuous discriminative awareness devoid of desire, even when not consciously practiced. It represents a profound stage of spiritual absorption characterized by purity and detachment.",
-    insights_jp: "この節は、意識的に実践していなくても欲望のない連続的な識別意識の状態である**法雲三昧**の到達を述べている。これは純粋さと離欲によって特徴づけられる深遠な霊的没入の段階を表している。"
+    insights_jp: "この節は、意識的に実践していなくても欲望のない連続的な識別意識の状態である**法雲三昧**の到達を述べている。これは純粋さと離欲によって特徴づけられる深遠な霊的没入の段階を表している。",
+    notes: [
+      {
+        key: {term: "dharmamegha (cloud of virtue)", ref: "Dharmamegha"},
+        note: "Cloud of virtue, purity, righteousness"
+      },
+      {
+        key: {term: "samādhi (absorption)", ref: "Samadhi"},
+        note: "Absorption, meditation, contemplation"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ダルマメーガ (cloud of virtue)", ref: "Dharmamegha"},
+        note: "徳の雲、純粋さ、正義"
+      },
+      {
+        key: {term: "サマーディ (absorption)", ref: "Samadhi"},
+        note: "瞑想、集中、没入"
+      }
+    ]
   },
   {
     chapter: 4,
@@ -299,7 +487,27 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     translation: "From that, afflictions (**kleśas**) and **karmas** cease.",
     translation_jp: "それから、煩悩（**クレーシャ**）と行為（**カルマ**）が止滅する。",
     insights: "This verse asserts that the arising of **dharmamegha samādhi** leads directly to the cessation of **kleśas** and **karmic** accumulation. It marks the culmination of the yogic path where bondage dissolves, and **liberation** is realized.",
-    insights_jp: "この節は、**法雲三昧**の出現が直接的に**煩悩**と**カルマ**の停止をもたらすことを主張している。これは、束縛が解消され**解放**が実現するヨーガの道の完成を示している。"
+    insights_jp: "この節は、**法雲三昧**の出現が直接的に**煩悩**と**カルマ**の停止をもたらすことを主張している。これは、束縛が解消され**解放**が実現するヨーガの道の完成を示している。",
+    notes: [
+      {
+        key: {term: "kleśa (affliction)", ref: "Klesha"},
+        note: "Affliction, suffering, misery"
+      },
+      {
+        key: {term: "karma (action)", ref: "Karma"},
+        note: "Action, deed, consequence"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "クレーシャ (affliction)", ref: "Klesha"},
+        note: "煩悩、苦悩、辛抱"
+      },
+      {
+        key: {term: "カルマ (action)", ref: "Karma"},
+        note: "行為、行為、結果"
+      }
+    ]
   },
   {
     chapter: 4,
@@ -309,7 +517,19 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     translation: "Then, **knowledge**, freed from all coverings and impurities, becomes infinite, and what remains to be known is little.",
     translation_jp: "その時、あらゆる覆いと汚れから解放された**知識**は無限となり、知られるべきものはわずかとなる。",
     insights: "This verse portrays the state of infinite **knowledge** achieved after the removal of all obscurations, where the scope of ignorance diminishes drastically. It signifies the near-completion of **self-realization** and ultimate **wisdom**.",
-    insights_jp: "この節は、すべての覆いと汚れが取り除かれた後に達成される無限の**知識**の状態を描き、無知の範囲が著しく縮小することを示している。これは**自己実現**と究極の**智慧**のほぼ完成を意味している。"
+    insights_jp: "この節は、すべての覆いと汚れが取り除かれた後に達成される無限の**知識**の状態を描き、無知の範囲が著しく縮小することを示している。これは**自己実現**と究極の**智慧**のほぼ完成を意味している。",
+    notes: [
+      {
+        key: {term: "jñāna (knowledge)", ref: "Jnana"},
+        note: "Knowledge, realization, insight"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "ジューナ (knowledge)", ref: "Jnana"},
+        note: "知識、実現、洞察"
+      }
+    ]
   },
   {
     chapter: 4,
@@ -319,7 +539,19 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     translation: "Thereby, the sequence of transformations of the **guṇas**, having fulfilled their purpose, comes to an end.",
     translation_jp: "それから、目的を達成した**グナ**（自然の三つの構成要素）の変化の連続が終了する。",
     insights: "This verse indicates the cessation of the **guṇas**' transformational cycles upon the fulfillment of their cosmic function. It marks the transcendence of material qualities and the cessation of phenomenal flux.",
-    insights_jp: "この節は、宇宙的機能を果たした後に**グナ**の変化の連続が停止することを示している。これは物質的性質の超越と現象的変動の停止を意味している。"
+    insights_jp: "この節は、宇宙的機能を果たした後に**グナ**の変化の連続が停止することを示している。これは物質的性質の超越と現象的変動の停止を意味している。",
+    notes: [
+      {
+        key: {term: "guṇa (quality)", ref: "Guna"},
+        note: "Quality, attribute, constituent"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "グナ (quality)", ref: "Guna"},
+        note: "性質、属性、構成要素"
+      }
+    ]
   },
   {
     chapter: 4,
@@ -329,7 +561,19 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     translation: "Sequence (**krama**) is the uninterrupted succession of moments, recognizable at the final end of a transformation.",
     translation_jp: "瞬間に対立し、変化の最後に把握可能なものが**連続（クラーマ）**である。",
     insights: "This verse defines **sequence (krama)** as the continuous flow of discrete moments, perceptible at the completion of a transformation. It reflects the temporal structure underlying change and the perception of continuity.",
-    insights_jp: "この節は、**連続（クラーマ）**を離散的な瞬間の連続的流れとして定義し、変化の完了時に知覚可能であることを述べている。これは変化の基礎となる時間的構造と連続性の認識を反映している。"
+    insights_jp: "この節は、**連続（クラーマ）**を離散的な瞬間の連続的流れとして定義し、変化の完了時に知覚可能であることを述べている。これは変化の基礎となる時間的構造と連続性の認識を反映している。",
+    notes: [
+      {
+        key: {term: "krama (sequence)", ref: "Krama"},
+        note: "Sequence, order, continuity"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "クラーマ (sequence)", ref: "Krama"},
+        note: "連続、順序、連続性"
+      }
+    ]
   },
   {
     chapter: 4,
@@ -339,7 +583,19 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     translation: "**Kaivalya** (**liberation**) is the reabsorption of the **guṇas**, devoid of any purpose for the **Puruṣa**, or it is the establishment of the power of **consciousness** in its own essential nature.",
     translation_jp: "**プルシャ**（純粋意識）の目的を失った**グナ**（自然の三つの構成要素）の逆行が**独存（カイヴァルヤ）**であり、あるいは**意識**の力が自己の本性に確立されることである。",
     insights: "This culminating verse defines **kaivalya** as the withdrawal of the **guṇas**, which hold no significance for the **Puruṣa**, and the establishment of pure **consciousness** in its innate state. It encapsulates the ultimate goal of **yoga**: absolute **liberation** and **self-realization** beyond material qualities.",
-    insights_jp: "この最終節は、**プルシャ**にとって意味を持たない**グナ**の退行と、**純粋意識**がその本来の状態に確立されることを**カイヴァルヤ**として定義している。これは**ヨーガ**の究極の目的である、物質的性質を超えた絶対的**解放**と**自己実現**を要約している。"
+    insights_jp: "この最終節は、**プルシャ**にとって意味を持たない**グナ**の退行と、**純粋意識**がその本来の状態に確立されることを**カイヴァルヤ**として定義している。これは**ヨーガ**の究極の目的である、物質的性質を超えた絶対的**解放**と**自己実現**を要約している。",
+    notes: [
+      {
+        key: {term: "kaivalya (liberation)", ref: "Kaivalya"},
+        note: "Liberation, isolation, emancipation"
+      }
+    ],
+    notes_jp: [
+      {
+        key: {term: "カイヴァルヤ (liberation)", ref: "Kaivalya"},
+        note: "解脱、孤立、免除"
+      }
+    ]
   }
 ];
 
