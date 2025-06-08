@@ -738,7 +738,7 @@ export const yoga_sutra_terms = {
         insights: "Drastr is the seer, the pure consciousness that witnesses the mind and its modifications. In yoga, the goal is to realize the seer beyond the modifications of the mind.",
         insights_jp: "ドラシュトリは、見る者、心とその作用を witnessing する純粋意識です。ヨーガでは、心の作用を越えた見る者の実現が目標です。"
     },
-    Duhkha: {
+    Dukha: {
         refs: [
             {
                 chapter: 2,

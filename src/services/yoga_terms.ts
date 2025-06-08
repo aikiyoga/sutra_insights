@@ -44,7 +44,7 @@ export const yoga_sutra_terminology : Terminology[] = [
     { term: "Dharmamegha", ...yoga_sutra_terms.Dharmamegha },
     { term: "Dhyana", ...yoga_sutra_terms.Dhyana },
     { term: "Drastr", ...yoga_sutra_terms.Drastr },
-    { term: "Duhkha", ...yoga_sutra_terms.Duhkha },
+    { term: "Dukha", ...yoga_sutra_terms.Dukha },
     { term: "Dvesa", ...yoga_sutra_terms.Dvesa },
     { term: "Ekagrata Parinama", ...yoga_sutra_terms.Ekagrata_Parinama },
     { term: "Guna", ...yoga_sutra_terms.Guna },

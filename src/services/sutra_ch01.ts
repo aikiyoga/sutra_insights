@@ -897,7 +897,7 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     insights_jp: "これらの障害は、**苦悩**、**憂鬱**、**身体の不安**、**呼吸の乱れ**として現れます。ヨーギーは原因と症状の両面を見極め、適切に対処する知恵を養う必要があります。",
     notes: [
       {
-        key: {term: "duḥkha (sorrow)", ref: "Duhkha"},
+        key: {term: "duḥkha (sorrow)", ref: "Dukha"},
         note: "Sorrow, suffering, pain"
       },
       {
@@ -919,7 +919,7 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     ],
     notes_jp: [
       {
-        key: {term: "ドゥッカ", ref: "Duhkha"},
+        key: {term: "ドゥッカ", ref: "Dukha"},
         note: "苦悩、苦痛、辛抱"
       },
       {
