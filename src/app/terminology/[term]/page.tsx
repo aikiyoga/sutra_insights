@@ -59,7 +59,7 @@ export default function TermDetailPage() {
           {language === 'jp' ? '＜一覧へ戻る' : '< Back to List'}
         </Link>
       )}
-      <div className="block p-4 rounded-lg text-[var(--card-fg)] shadow-xl bg-gray-100 dark:bg-gray-800 max-w-4xl mx-auto">
+      <div className="block p-4 rounded-lg text-[var(--foreground)] shadow-xl bg-gray-100 dark:bg-gray-800 max-w-4xl mx-auto">
         <h1 className={`${language === 'en' ? 'title' : 'title_jp'} text-3xl font-bold mb-2 flex items-center justify-center gap-4`}>
           <img src="/wave.png" alt="wave" className="h-8 w-8 inline-block" />
           <span>{language === 'jp' ? entry.term_jp : entry.term}</span>

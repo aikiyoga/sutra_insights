@@ -42,7 +42,7 @@ export default function ChapterContent({ chapterId, chapter, sutras }: { chapter
         />
       </h1>
 
-      <div className='mb-4 text-[var(--card-fg)] text-justify whitespace-pre-line break-words text-lg bg-gray-100 dark:bg-gray-800 p-4 rounded-lg shadow-md hover:shadow-lg transition-shadow cursor-pointer'
+      <div className='mb-4 text-[var(--foreground)] text-justify whitespace-pre-line break-words text-lg bg-gray-100 dark:bg-gray-800 p-4 rounded-lg shadow-md hover:shadow-lg transition-shadow cursor-pointer'
       onClick={() => setShowDeepDive(!showDeepDive)}>
         {!showDeepDive && (
           <>

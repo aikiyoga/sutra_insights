@@ -73,7 +73,7 @@ export default function SutraCard({ sutra, showThis = false }: { sutra: YogaSutr
           {showInsights && (
             ((language === 'en' && sutra.insights) || 
               (language === 'jp' && sutra.insights_jp)) && (
-              <div className="mt-4 bg-gray-100 dark:bg-gray-800 p-4 rounded-lg" style={{ color: 'var(--card-fg)' }}>
+              <div className="mt-4 bg-gray-100 dark:bg-gray-800 p-4 rounded-lg" style={{ color: 'var(--foreground)' }}>
                 <h4 className="font-bold mb-1">{language === 'en' ? 'Insights' : '洞察'}</h4>
                 <ReactMarkdown>{language === 'en' ? sutra.insights : sutra.insights_jp}</ReactMarkdown>
               </div>
@@ -82,7 +82,7 @@ export default function SutraCard({ sutra, showThis = false }: { sutra: YogaSutr
           {showInsights && (
             ((language === 'en' && sutra.notes) || 
               (language === 'jp' && sutra.notes_jp)) && (
-              <div className="mt-4 bg-gray-100 dark:bg-gray-800 p-4 rounded-lg" style={{ color: 'var(--card-fg)' }}>
+              <div className="mt-4 bg-gray-100 dark:bg-gray-800 p-4 rounded-lg" style={{ color: 'var(--foreground)' }}>
                 <h4 className="font-bold mb-1">{language === 'en' ? 'Notes' : 'ノート'}</h4>
                 <ul>
                   {language === 'en' && sutra.notes ? (
