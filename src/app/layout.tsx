@@ -3,6 +3,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "@/context/ThemeContext";
 import Header from "@/components/Header";
+import ThemeAwareImage from "@/components/ThemeAwareImage";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -52,33 +53,37 @@ export default function RootLayout({
                     Aiki Yoga
                   </span>
                   <a href="https://www.aiki-yoga.net/" style={{ textDecoration: 'none' }} title="Aiki Yoga Website">
-                    <img
-                      src="https://www.aiki-yoga.net/assets/img/lotus-flower.png"
-                      width="50"
+                    <ThemeAwareImage 
+                      lightSrc="https://www.aiki-yoga.net/assets/img/lotus-flower.png"
+                      darkSrc="https://www.aiki-yoga.net/assets/img/lotus-flower-light.png"
+                      width={50}
                       style={{ opacity: 0.3 }}
                       alt="Aiki Yoga"
                     />
                   </a>
                   <a href="https://www.instagram.com/aikimatsu.yoga" style={{ textDecoration: 'none' }} title="Aiki Yoga Instagram">
-                    <img
-                      src="https://www.aiki-yoga.net/assets/img/instagram.png"
-                      width="30"
+                    <ThemeAwareImage 
+                      lightSrc="https://www.aiki-yoga.net/assets/img/instagram.png"
+                      darkSrc="https://www.aiki-yoga.net/assets/img/instagram-light.png"
+                      width={30}
                       style={{ opacity: 0.3 }}
-                      alt="instagram"
+                      alt="Instagram"
                     />
                   </a>
                   <a href="https://aikiyoga.substack.com" style={{ textDecoration: 'none' }} title="Aiki Yoga Substack">
-                    <img
-                      src="https://www.aiki-yoga.net/assets/img/substack.png"
-                      width="30"
+                    <ThemeAwareImage 
+                      lightSrc="https://www.aiki-yoga.net/assets/img/substack.png"
+                      darkSrc="https://www.aiki-yoga.net/assets/img/substack-light.png"
+                      width={30}
                       style={{ opacity: 0.3 }}
-                      alt="substack"
+                      alt="Substack"
                     />
                   </a>
                   <a href="https://x.com/aiki_yoga" style={{ textDecoration: 'none' }} title="Aiki Yoga Twitter/X">
-                    <img
-                      src="https://www.aiki-yoga.net/assets/img/twitter-x.png"
-                      width="30"
+                    <ThemeAwareImage 
+                      lightSrc="https://www.aiki-yoga.net/assets/img/twitter-x.png"
+                      darkSrc="https://www.aiki-yoga.net/assets/img/twitter-x-light.png"
+                      width={30}
                       style={{ opacity: 0.3 }}
                       alt="Twitter/X"
                     />
