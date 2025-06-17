@@ -54,8 +54,8 @@ export default function RootLayout({
                   </span>
                   <a href="https://www.aiki-yoga.net/" style={{ textDecoration: 'none' }} title="Aiki Yoga Website">
                     <ThemeAwareImage 
-                      lightSrc="https://www.aiki-yoga.net/assets/img/lotus-flower.png"
-                      darkSrc="https://www.aiki-yoga.net/assets/img/lotus-flower-light.png"
+                      lightSrc="/social/lotus-flower.png"
+                      darkSrc="/social/lotus-flower-light.png"
                       width={50}
                       style={{ opacity: 0.3 }}
                       alt="Aiki Yoga"
@@ -63,8 +63,8 @@ export default function RootLayout({
                   </a>
                   <a href="https://www.instagram.com/aikimatsu.yoga" style={{ textDecoration: 'none' }} title="Aiki Yoga Instagram">
                     <ThemeAwareImage 
-                      lightSrc="https://www.aiki-yoga.net/assets/img/instagram.png"
-                      darkSrc="https://www.aiki-yoga.net/assets/img/instagram-light.png"
+                      lightSrc="/social/instagram.png"
+                      darkSrc="/social/instagram-light.png"
                       width={30}
                       style={{ opacity: 0.3 }}
                       alt="Instagram"
@@ -72,8 +72,8 @@ export default function RootLayout({
                   </a>
                   <a href="https://aikiyoga.substack.com" style={{ textDecoration: 'none' }} title="Aiki Yoga Substack">
                     <ThemeAwareImage 
-                      lightSrc="https://www.aiki-yoga.net/assets/img/substack.png"
-                      darkSrc="https://www.aiki-yoga.net/assets/img/substack-light.png"
+                      lightSrc="/social/substack.png"
+                      darkSrc="/social/substack-light.png"
                       width={30}
                       style={{ opacity: 0.3 }}
                       alt="Substack"
