@@ -46,3 +46,10 @@ body {
   font-family: 'Kaisei Tokumin', serif;
   font-weight: 700;
 }
+
+/* Add hyphenation support for Sanskrit terms */
+.sanskrit-term {
+  hyphens: auto;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}

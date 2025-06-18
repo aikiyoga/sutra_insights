@@ -49,7 +49,7 @@ export default function SutraCard({ sutra, showThis = false }: { sutra: YogaSutr
       >
         <div className="flex items-center mb-3">
           <h3 className="text-2xl font-bold mr-4 title" style={{ color: 'var(--card-fg)' }}>{verseLabel(sutra.chapter, sutra.verse)}</h3>
-            <p className="text-lg italic" style={{ color: 'var(--card-fg)' }}>{sutra.text}</p>
+            <p className="sanskrit-term text-lg italic" style={{ color: 'var(--card-fg)' }}>{sutra.text}</p>
             <div className="text-xs text-gray-500 dark:text-gray-400 flex items-center ml-auto mr-2">
               <span className="inline-block w-2 h-2 rounded-full mr-1" 
                 style={{ 
