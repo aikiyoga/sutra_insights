@@ -581,7 +581,7 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     text: "puruṣārthaśūnyānāṁ guṇānāṁ pratiprasavaḥ kaivalyaṁ svarūpapratiṣṭhā vā citiśaktireti",
     importance: 10,
     translation: "**Kaivalya** (**liberation**) is the reabsorption of the **guṇas**, devoid of any purpose for the **Puruṣa**, or it is the establishment of the power of **consciousness** in its own essential nature.",
-    translation_jp: "**プルシャ**（純粋意識）の目的を失った**グナ**（自然の三つの構成要素）の逆行が**独存（カイヴァルヤ）**であり、あるいは**意識**の力が自己の本性に確立されることである。",
+    translation_jp: "**プルシャ**（純粋意識）の目的を失った**グナ**（自然の三つの構成要素）の逆行が**独存**（**カイヴァルヤ**）であり、あるいは**意識**の力が自己の本性に確立されることである。",
     insights: "This culminating verse defines **kaivalya** as the withdrawal of the **guṇas**, which hold no significance for the **Puruṣa**, and the establishment of pure **consciousness** in its innate state. It encapsulates the ultimate goal of **yoga**: absolute **liberation** and **self-realization** beyond material qualities.",
     insights_jp: "この最終節は、**プルシャ**にとって意味を持たない**グナ**の退行と、**純粋意識**がその本来の状態に確立されることを**カイヴァルヤ**として定義している。これは**ヨーガ**の究極の目的である、物質的性質を超えた絶対的**解放**と**自己実現**を要約している。",
     notes: [
