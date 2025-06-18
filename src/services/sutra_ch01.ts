@@ -124,7 +124,7 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "At other times, the seer identifies with **the modifications of the mind**.",
     translation_jp: "それ以外の時には、見る者は**心の作用**と同じ形をとってしまう。",
     insights: "Whenever the mind is not stilled, the seer becomes conflated with the vṛttis, losing sight of its own pure consciousness. This mistaken identification is the root of **avidyā (ignorance)** and the cause of **bondage**. Discriminating awareness between the Self and mind is essential.",
-    insights_jp: "心の作用が止まっていない時、見る者はヴリッティと同一視され、純粋意識としての本性を見失います。この誤った同一化こそが**無明（アヴィディヤー）**の根本であり、**束縛**の原因です。自己と心の区別を見極める認識が不可欠となります。",
+    insights_jp: "心の作用が止まっていない時、見る者はヴリッティと同一視され、純粋意識としての本性を見失います。この誤った同一化こそが**無明**（**アヴィディヤー**）の根本であり、**束縛**の原因です。自己と心の区別を見極める認識が不可欠となります。",
     notes: [
       {
         key: {term: "vṛtti (modification)", ref: "Vrtti"},
@@ -254,7 +254,7 @@ export const yoga_sutras_samadhi_pada : YogaSutra[] = [
     translation: "The sources of **right knowledge** are direct perception, inference, and authoritative testimony.",
     translation_jp: "**正しい認識**（の源）は、直接知覚、推論、信頼できる聖典（または証言）である。",
     insights: "**Right knowledge (pramāṇa)** arises from three pramāṇas: direct perception (pratyakṣa), inference (anumāna), and scriptural testimony (āgama). Mastery over these means enables the yogin to distinguish reality from illusion—an essential step in transcending vṛttis.",
-    insights_jp: "**正知（プラマーナ）**は、直接知覚（プラティヤクシャ）、推論（アヌマーナ）、聖典や信頼できる証言（アーガマ）の三つから生じます。これらを正しく用いることで、現実と幻想を峻別する力が養われ、ヴリッティ超越の礎となります。",
+    insights_jp: "**正知**（プラマーナ）は、直接知覚（プラティヤクシャ）、推論（アヌマーナ）、聖典や信頼できる証言（アーガマ）の三つから生じます。これらを正しく用いることで、現実と幻想を峻別する力が養われ、ヴリッティ超越の礎となります。",
     notes: [
       {
         key: {term: "pratyakṣa (direct perception)", ref: "Pratyaksha"},

@@ -63,7 +63,7 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     translation: "Created minds (arise) from **I-am-ness** alone.",
     translation_jp: "創造された心は、ただ我性（**アスミター**）から生じる。",
     insights: "This verse identifies the ego sense ('**I-am-ness**') as the sole source of the manifold created minds, highlighting the centrality of **ahamkara** in the manifestation of individual consciousness. It points to the **ego** as the fundamental principle from which diverse mental modifications arise.",
-    insights_jp: "この節は、多様な創造された心の唯一の源として**我性（アスミター）**を特定し、個別の意識の顕現における**アハムカーラ**の中心性を強調している。多様な心の変容が生じる根本原理としての**自我**を示している。",
+    insights_jp: "この節は、多様な創造された心の唯一の源として**我性**（**アスミター**）を特定し、個別の意識の顕現における**アハムカーラ**の中心性を強調している。多様な心の変容が生じる根本原理としての**自我**を示している。",
     notes: [
       {
         key: {term: "asmita (I-am-ness)", ref: "Asmita"},
@@ -559,9 +559,9 @@ export const yoga_sutras_kaivalya_pada : YogaSutra[] = [
     text: "kṣaṇapratiyogī pariṇāmāparāntanirgrāhyaḥ kramaḥ",
     importance: 8,
     translation: "Sequence (**krama**) is the uninterrupted succession of moments, recognizable at the final end of a transformation.",
-    translation_jp: "瞬間に対立し、変化の最後に把握可能なものが**連続（クラーマ）**である。",
+    translation_jp: "瞬間に対立し、変化の最後に把握可能なものが**連続**（**クラーマ**）である。",
     insights: "This verse defines **sequence (krama)** as the continuous flow of discrete moments, perceptible at the completion of a transformation. It reflects the temporal structure underlying change and the perception of continuity.",
-    insights_jp: "この節は、**連続（クラーマ）**を離散的な瞬間の連続的流れとして定義し、変化の完了時に知覚可能であることを述べている。これは変化の基礎となる時間的構造と連続性の認識を反映している。",
+    insights_jp: "この節は、**連続**（**クラーマ**）を離散的な瞬間の連続的流れとして定義し、変化の完了時に知覚可能であることを述べている。これは変化の基礎となる時間的構造と連続性の認識を反映している。",
     notes: [
       {
         key: {term: "krama (sequence)", ref: "Krama"},
