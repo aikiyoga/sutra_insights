@@ -81,8 +81,8 @@ export default function RootLayout({
                   </a>
                   <a href="https://x.com/aiki_yoga" style={{ textDecoration: 'none' }} title="Aiki Yoga Twitter/X">
                     <ThemeAwareImage 
-                      lightSrc="https://www.aiki-yoga.net/assets/img/twitter-x.png"
-                      darkSrc="https://www.aiki-yoga.net/assets/img/twitter-x-light.png"
+                      lightSrc="/social/twitter-x.png"
+                      darkSrc="/social/twitter-x-light.png"
                       width={30}
                       style={{ opacity: 0.3 }}
                       alt="Twitter/X"
