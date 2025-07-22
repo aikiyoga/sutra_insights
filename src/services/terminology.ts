@@ -2322,3 +2322,9 @@ export const yoga_sutra_terms = {
         insights_jp: "ヨーガは、個人の意識と普遍的な意識を統合する過程であり、調和・バランス・悟りへと導きます。"
     }
 };
+// Vasana
+// Hetu
+// Phala
+// Asraya
+// Alambana
+// Vastu
