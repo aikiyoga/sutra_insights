@@ -285,6 +285,23 @@ export const yoga_sutra_terms = {
         insights: "Asmitarupa is the subtle trace of ego or individuality that remains even in refined meditative absorption. Recognizing and dissolving these subtle forms is essential for the complete realization of pure consciousness.",
         insights_jp: "アスミタルーパは、高度な瞑想状態でも残る微細な自我意識です。こうした自己同一化の痕跡を見極めて解消することが、純粋意識の完全な悟りに不可欠です。"
     },
+    Asraya: {
+        refs: [
+            {
+                chapter: 2,
+                verse: 36
+            },
+            {
+                chapter: 4,
+                verse: 11
+            }
+        ],
+        term_jp: "アーシュラヤ",
+        definition: "Support, basis, or foundation; the underlying substrate or dependence upon which phenomena rest or arise.",
+        definition_jp: "支持・基盤・土台。現象が依存し、その上に成り立つ根本的な基礎。",
+        insights: "Asraya represents the principle of foundational support in yoga philosophy. In the Yoga Sutras, it appears in the context of interdependent causation (4.11) as one of the four factors that sustain vasanas (latent impressions), and in relation to how truthfulness provides a reliable foundation for actions to bear fruit (2.36). Understanding asraya helps practitioners recognize the importance of establishing stable foundations in practice and the interdependent nature of all phenomena. It emphasizes that all experiences and mental formations require some form of support or basis to exist.",
+        insights_jp: "アーシュラヤは、ヨーガ哲学における基盤的支持の原理を表します。ヨーガ・スートラでは、ヴァーサナ（潜在印象）を支える四つの要因の一つとしての相互依存的因果関係（4.11）や、真実が行為の結果を確実にもたらす信頼できる基盤となること（2.36）の文脈で現れます。アーシュラヤを理解することで、修行者は実践において安定した基盤を築くことの重要性と、すべての現象の相互依存的性質を認識できます。すべての経験や心の形成には何らかの支持や基盤が必要であることを強調しています。"
+    },
     Astanga: {
         refs: [
             {
@@ -831,6 +848,35 @@ export const yoga_sutra_terms = {
         insights: "The gunas are the three essential qualities that make up all of nature and shape the mind and behavior. Yoga aims to cultivate sattva (purity), while reducing rajas (activity) and tamas (inertia).",
         insights_jp: "グナは、自然や心、行動を形作る三つの根本的な性質です。ヨーガでは、サットヴァ（純粋性）を育て、ラジャス（活動性）やタマス（惰性）を減らすことを目指します。"
     },
+    Hetu: {
+        refs: [
+            {
+                chapter: 2,
+                verse: 14
+            },
+            {
+                chapter: 2,
+                verse: 17
+            },
+            {
+                chapter: 2,
+                verse: 23
+            },
+            {
+                chapter: 2,
+                verse: 24
+            },
+            {
+                chapter: 4,
+                verse: 11
+            }
+        ],
+        term_jp: "ヘトゥ",
+        definition: "Cause or reason; the underlying factor that brings about an effect or result.",
+        definition_jp: "原因・理由。結果や効果をもたらす根本的な要因。",
+        insights: "Hetu represents the principle of causation in yoga philosophy. In the Yoga Sutras, it appears in contexts explaining the causes of suffering (such as ignorance being the hetu of the false conjunction between Seer and Seen), and the interdependent nature of phenomena. Understanding hetu helps practitioners recognize the root causes of their experiences and work toward liberation by addressing these fundamental causes.",
+        insights_jp: "ヘトゥは、ヨーガ哲学における因果関係の原理を表します。ヨーガ・スートラでは、苦しみの原因（見る者と見られるものの偽りの結合の原因としての無明など）や現象の相互依存的性質を説明する文脈で現れます。ヘトゥを理解することで、修行者は自分の経験の根本原因を認識し、これらの根本的な原因に取り組むことで解脱に向かうことができます。"
+    },
     Isvara: {
         refs: [
             {
@@ -1296,6 +1342,31 @@ export const yoga_sutra_terms = {
         definition_jp: "変容。特に心の内で起こる変化や進化のプロセス。",
         insights: "Parinama describes the ongoing transformation that unfolds as mental fluctuations are calmed, gradually leading to greater inner stillness and clarity.",
         insights_jp: "パリナーマは、心の働きが静まるにつれて進む変容の過程を表します。これにより、内面的な静けさや明晰さが深まります。"
+    },
+    Phala: {
+        refs: [
+            {
+                chapter: 2,
+                verse: 14
+            },
+            {
+                chapter: 2,
+                verse: 34
+            },
+            {
+                chapter: 2,
+                verse: 36
+            },
+            {
+                chapter: 4,
+                verse: 11
+            }
+        ],
+        term_jp: "パラ",
+        definition: "Fruit, result, or effect; the outcome or consequence that arises from actions, thoughts, or causes.",
+        definition_jp: "果実・結果・効果。行為・思考・原因から生じる成果や帰結。",
+        insights: "Phala represents the principle of consequence in yoga philosophy. It appears in contexts explaining how actions bear fruit (both positive and negative), the results of ethical practices like truthfulness, and the interdependent nature of phenomena. Understanding phala helps practitioners recognize that all actions have inevitable consequences, encouraging mindful conduct and the cultivation of positive karma. The concept emphasizes the law of cause and effect that governs both spiritual and material experiences.",
+        insights_jp: "パラは、ヨーガ哲学における結果の原理を表します。行為が果実をもたらす仕組み（善悪両方）、真実などの倫理的実践の結果、現象の相互依存的性質を説明する文脈で現れます。パラを理解することで、修行者はすべての行為に必然的な結果があることを認識し、意識的な行動と良いカルマの育成を促します。この概念は、精神的・物質的経験を支配する因果の法則を強調しています。"
     },
     Prajna: {
         refs: [
@@ -2192,6 +2263,35 @@ export const yoga_sutra_terms = {
         insights: "Vasikara-vairagya is the highest stage of detachment, leading directly to profound peace and liberation.",
         insights_jp: "ヴァーシカラ・ヴァイラーギャは、非執着の最上段階であり、深い平安と解脱へと導きます。"
     },
+    Vastu: {
+        refs: [
+            {
+                chapter: 1,
+                verse: 9
+            },
+            {
+                chapter: 4,
+                verse: 14
+            },
+            {
+                chapter: 4,
+                verse: 15
+            },
+            {
+                chapter: 4,
+                verse: 16
+            },
+            {
+                chapter: 4,
+                verse: 17
+            }
+        ],
+        term_jp: "ヴァストゥ",
+        definition: "Object, thing, or entity; the substantial reality or essence that underlies phenomena and serves as the basis for perception and knowledge.",
+        definition_jp: "物・事物・実体。現象の根底にある実質的な現実や本質で、知覚や認識の基盤となるもの。",
+        insights: "Vastu represents the principle of objective reality in yoga philosophy. In the Yoga Sutras, it appears in discussions about the nature of objects and their relationship to consciousness. The term is used to explore questions of whether objects exist independently of the mind that perceives them, and how the same object can be perceived differently by different minds. Understanding vastu helps practitioners distinguish between conceptual constructions (vikalpa) that lack substantial reality and genuine objects that have ontological existence. It points to the philosophical inquiry into the nature of reality and the relationship between subject and object in the process of knowledge.",
+        insights_jp: "ヴァストゥは、ヨーガ哲学における客観的現実の原理を表します。ヨーガ・スートラでは、対象の本質とそれらの意識との関係についての議論で現れます。この用語は、対象が知覚する心から独立して存在するかどうか、同じ対象が異なる心によってどのように異なって知覚されるかという問題を探求するために使われます。ヴァストゥを理解することで、修行者は実質的現実を欠く概念的構築（ヴィカルパ）と、存在論的実在を持つ真の対象とを区別できます。これは現実の本質と、知識の過程における主体と客体の関係への哲学的探求を指しています。"
+    },
     Vicara: {
         refs: [
             { chapter: 1, verse: 17 }
@@ -2322,9 +2422,3 @@ export const yoga_sutra_terms = {
         insights_jp: "ヨーガは、個人の意識と普遍的な意識を統合する過程であり、調和・バランス・悟りへと導きます。"
     }
 };
-// Vasana
-// Hetu
-// Phala
-// Asraya
-// Alambana
-// Vastu
